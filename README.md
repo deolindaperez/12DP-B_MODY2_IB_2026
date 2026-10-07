@@ -4,3 +4,4 @@ First project of Introduction to Bioinformatics. Research on diabetes mellitus, 
 Our goal: How can changes in gene/protein sequence and structure explain the molecular
 basis of disease, and what can comparison tell us about the affected biological
 function?
+https://docs.google.com/spreadsheets/d/1o3QTRh4xDZ8qRld9oDjiA7_4x1i5Z25p/edit?usp=sharing&ouid=103998011596099368632&rtpof=true&sd=true

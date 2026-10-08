@@ -7,4 +7,7 @@ gantt
   todayMarker on
 
   section WP1 Setup and planning
-  1.1 Repo and folder
+  1.1 Repo and folder (Deolinda)
+  1.2
+  1.3
+  1.4

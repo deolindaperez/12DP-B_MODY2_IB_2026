@@ -1,6 +1,7 @@
 **BACKGROUND**
 
-## Physiology of wild-type glucokinase
+**Physiology of wild-type glucokinase**
+Glucokinase (GK, also called hexokinase IV) is an enzyme encoded by the *GCK* gene on chromosome 7p13. It catalyses the first step of glucose metabolism: it adds a phosphate group to glucose, using ATP, to produce glucose-6-phosphate (G6P). It is found mainly in pancreatic beta cells and in liver cells (hepatocytes). The gene has two tissue-specific promoters, so the pancreas and the liver produce slightly different versions (isoforms) of the enzyme (Postic 2001).
 
 
 **Fisiopatología molecular:**

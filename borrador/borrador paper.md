@@ -9,7 +9,7 @@ In pancreatic beta cells, glucokinase controls the slowest (rate-limiting) step 
 
 In the liver, glucokinase helps to take up glucose and store it after meals. During fasting, when glucose is low, another protein called glucokinase regulatory protein (GKRP) binds glucokinase and keeps it inactive inside the nucleus. This stops the liver from using glucose when the body needs it. When blood glucose rises after a meal, glucokinase is released and moves to the cytoplasm, where the G6P it produces is used to make glycogen, the liver's glucose store (Postic 2001, Zhang 2023).
 
-
+Glucokinase is a monomer (a single protein chain) with two parts, a large domain and a small domain, separated by a cleft where glucose binds. Without glucose, the enzyme stays mostly in an inactive "super-open" shape. When glucose binds, the enzyme slowly changes to an active "closed" shape. This slow change of shape explains why glucokinase shows an S-shaped curve even though it has only one glucose-binding site (Kamata 2004).
 
 
 

@@ -7,6 +7,9 @@ Other hexokinases (types I–III) bind glucose very strongly, so they already wo
 
 In pancreatic beta cells, glucokinase controls the slowest (rate-limiting) step of glucose metabolism. After a meal, blood glucose rises and glucose enters the beta cell, where glucokinase phosphorylates it. As glucose is broken down through glycolysis and in the mitochondria, the cell produces more ATP. The higher ATP/ADP ratio closes ATP-sensitive potassium (K-ATP) channels in the cell membrane. This changes the electrical charge of the membrane (depolarization), which opens calcium channels. Calcium then enters the cell and causes the release of insulin from storage granules (Thompson 2021). Since glucokinase controls the speed of this whole chain, it sets the blood glucose threshold for insulin release at about 5 mM (Matschinsky 1993).
 
+In the liver, glucokinase helps to take up glucose and store it after meals. During fasting, when glucose is low, another protein called glucokinase regulatory protein (GKRP) binds glucokinase and keeps it inactive inside the nucleus. This stops the liver from using glucose when the body needs it. When blood glucose rises after a meal, glucokinase is released and moves to the cytoplasm, where the G6P it produces is used to make glycogen, the liver's glucose store (Postic 2001, Zhang 2023).
+
+
 
 
 

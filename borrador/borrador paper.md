@@ -21,3 +21,8 @@ A nivel molecular, esta menos afinidad enzimática retrasa drásticamente el pri
 El fallo en la producción de ATP impide el cierre de los canales de potasio (canales K-ATP) ubicados en la membrana celular. Al permanecer abiertos, la célula no retiene las cargas positivas, impidiendo la despolarización de la membrana (que se cargue de electricidad). La ausencia de este cambio eléctrico mantiene cerrados los canales de calcio (Ca2+). Sin la entrada masiva de iones de calcio al interior de la célula, las vesículas que almacenan la insulina no reciben la señal necesaria para unirse a la membrana y liberar la hormona a la sangre.
 
 El resultado global de esta alteración molecular no es una incapacidad total del páncreas para producir o secretar insulina, sino un aumento en el nivel de azúcar necesario para activar el sistema. Mientras que una célula beta sana inicia la liberación de insulina a partir de concentraciones aproximadas de 90 mg/dL de glucosa en sangre, el "sensor descalibrado" de la célula afectada por MODY2 requiere una cantidad de azúcar en sangre mayor (típicamente entre 120 y 130 mg/dL) para forzar a la glucocinasa defectuosa a trabajar. Solo al alcanzar ese nivel elevado se logra producir suficiente ATP para desencadenar la liberación de insulina, lo cual explica los niveles de azúcar permanentemente elevados que presenta el paciente.
+
+
+
+**Secondary effects:**
+Despite being the most common MODY subtype in countries where routine genetic screenings are performed, the secondary effects of MODY2 and its symptoms are difficult to encounter and detect without proper tests.

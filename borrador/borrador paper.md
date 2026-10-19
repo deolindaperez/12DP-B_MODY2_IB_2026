@@ -5,6 +5,11 @@ Glucokinase (GK, also called hexokinase IV) is an enzyme encoded by the *GCK* ge
 
 Other hexokinases (types I–III) bind glucose very strongly, so they already work at full speed even when there is very little glucose. Glucokinase is different in three ways: it has a low affinity for glucose (it reaches half of its maximum speed at about 8 mM), its activity follows an S-shaped (sigmoidal) curve with a Hill coefficient of about 1.7, and it is not significantly inhibited by its product, G6P, at normal concentrations (Matschinsky 1990, Matschinsky 1993). Because of this, the speed of glucokinase changes with blood glucose levels within the normal range. This is why glucokinase works as the body's glucose sensor.
 
+In pancreatic beta cells, glucokinase controls the slowest (rate-limiting) step of glucose metabolism. After a meal, blood glucose rises and glucose enters the beta cell, where glucokinase phosphorylates it. As glucose is broken down through glycolysis and in the mitochondria, the cell produces more ATP. The higher ATP/ADP ratio closes ATP-sensitive potassium (K-ATP) channels in the cell membrane. This changes the electrical charge of the membrane (depolarization), which opens calcium channels. Calcium then enters the cell and causes the release of insulin from storage granules (Thompson 2021). Since glucokinase controls the speed of this whole chain, it sets the blood glucose threshold for insulin release at about 5 mM (Matschinsky 1993).
+
+
+
+
 **Fisiopatología molecular:**
 El desarrollo fisiopatológico del MODY2 viene de mutaciones genéticas que reducen el funcionamiento del gen GCK, el cual codifica para la enzima glucocinasa. En condiciones normales, esta enzima actúa como el principal sensor de glucosa en las células Beta del páncreas. Sin embargo, la mutación en el MODY2 altera la estructura y el comportamiento de la enzima, provocando una disminución en su afinidad por detectar la glucosa. Esto significa que la enzima necesita concentraciones de glucosa más altas para iniciar su actividad.
 

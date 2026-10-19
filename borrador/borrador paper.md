@@ -1,5 +1,7 @@
 **BACKGROUND**
 
+## Physiology of wild-type glucokinase
+
 
 **Fisiopatología molecular:**
 El desarrollo fisiopatológico del MODY2 viene de mutaciones genéticas que reducen el funcionamiento del gen GCK, el cual codifica para la enzima glucocinasa. En condiciones normales, esta enzima actúa como el principal sensor de glucosa en las células Beta del páncreas. Sin embargo, la mutación en el MODY2 altera la estructura y el comportamiento de la enzima, provocando una disminución en su afinidad por detectar la glucosa. Esto significa que la enzima necesita concentraciones de glucosa más altas para iniciar su actividad.

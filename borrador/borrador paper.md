@@ -6,6 +6,7 @@ The main mechanism involved in diabetes is as follows: insulin has a regulatory 
 In type 1 diabetes, the pancreas does not produce enough insulin. As a result, glucose cannot enter the cells, leading to a lack of energy. Extracellularly (in the bloodstream), hyperglycemia develops: glucose accumulates in the blood at very high levels.
 
 In type 2 diabetes, it is the cells that do not respond properly to the hormone; this condition is known as insulin resistance.
+
 **Physiology of wild-type glucokinase:**
 Glucokinase (GK, also called hexokinase IV) is an enzyme encoded by the *GCK* gene on chromosome 7p13. It catalyses the first step of glucose metabolism: it adds a phosphate group to glucose, using ATP, to produce glucose-6-phosphate (G6P). It is found mainly in pancreatic beta cells and in liver cells (hepatocytes). The gene has two tissue-specific promoters, so the pancreas and the liver produce slightly different versions (isoforms) of the enzyme (Postic 2001).
 

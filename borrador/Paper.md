@@ -89,3 +89,4 @@ Because the mutant protein loses 80% of its activity, pancreatic cells need high
 
 
 ## References
+1. Q. Liu, Y. Shen, S. Liu, J. Weng, and J. Liu, 'Crystal structure of E339K mutated human glucokinase reveals changes in the ATP binding site', *FEBS Letters*, vol. 585 (2011), doi: 10.1016/j.febslet.2011.03.026.

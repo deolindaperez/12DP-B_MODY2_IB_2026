@@ -58,3 +58,5 @@ In the three species, position 339 is a glutamate (E). This means that this resi
 | *Homo sapiens* (P35557) | — | — | E | — |
 | *Ovis aries* (NP_001274400.1) | 96.6% | 98.3% | E | EMBOSS Needle |
 | *Xenopus laevis* | 80.6% | 88.4%* | E | Class conservation report |
+
+\*Percentage of positions with amino acids from the same physicochemical group.

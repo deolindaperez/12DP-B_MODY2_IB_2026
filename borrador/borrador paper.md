@@ -55,6 +55,8 @@ The sheep protein is much more similar to the human protein: a global alignment 
 
 In the three species, position 339 is a glutamate (E). This means that this residue has been conserved in mammals and amphibians, so the E339K mutation changes a position that evolution has not allowed to change. In addition, the local backbone displacement at position 339 between human and *Xenopus* (3.13 Å) is larger than between the wild-type and the mutant (2.49 Å), even though the frog enzyme works normally. This suggests that the problem of E339K is not only the movement of the backbone, but the change of charge from negative to positive, which breaks the interactions of glutamate 339 with His416 and Arg422 (Liu 2011).
 
+Glucokinase is highly conserved in vertebrates, which shows that its role as a glucose sensor is essential. Because E339 is conserved even in distantly related species, a change at this position is likely to affect the function of the enzyme, which agrees with the reduced activity of the E339K mutant and the hyperglycaemia seen in patients.
+
 **Table X.** Comparison of human glucokinase with its orthologs.
 
 | Species | Identity with human | Similarity with human | Residue 339 | Source |
@@ -63,4 +65,4 @@ In the three species, position 339 is a glutamate (E). This means that this resi
 | *Ovis aries* (NP_001274400.1) | 96.6% | 98.3% | E | EMBOSS Needle |
 | *Xenopus laevis* | 80.6% | 88.4%* | E | Class conservation report |
 
-\*Percentage of positions with amino acids from the same physicochemical group.
+\*Percentage of positions with amino acids from the same physicochemical group. 

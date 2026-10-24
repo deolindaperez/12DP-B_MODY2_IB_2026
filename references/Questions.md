@@ -18,7 +18,7 @@ The mutant CDS also has the symbol GCK, the same as the WT gene
 
 
 **Q5: If the mutation is a nucleotide substitution, is it synonymous, missense or nonsense?**
-It's a substitution because the nucleotide G (guanine) changes to A (adenine), the mutation using its CDS position annotation is c.388A>G. This will mean the mutant codon will read AAG instead of GAG which is the wild type.
+It's a substitution because the nucleotide G (guanine) changes to A (adenine), the mutation using its CDS position annotation is c.1015A>G. This will mean the mutant codon will read AAG instead of GAG which is the wild type.
 We have found that this substitution creates a missense mutation, because the mutant codon now codifies for the amino acid alanine instead of leucine.
 
 **Q6: If nucleotides have been inserted or deleted, could the change alter the reading frame (i.e. frameshift)?**

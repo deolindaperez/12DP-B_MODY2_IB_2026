@@ -39,6 +39,10 @@ There are different risks involving pregnat women with MODY2. One of these is th
 
 To prevent these risks, or lower their rate, the main solution is the use of insulin therapy, due to its ability to prevent macrosomia and other effects of MODY2. This type of medication replace the amount of insulin needed that is not being produced, so that the body is not without necessary insulin. That being said, if the fetus has inherited it, since there is a risk of growth restriction, the treatment of maternal hyperglycemia should not be undertaken.
 
+**METHODS**
+
+The human (UniProt P35557) and sheep (NCBI NP_001274400.1) glucokinase sequences were aligned with EMBOSS Needle (EBLOSUM62 matrix, gap open 10, gap extend 0.5) (Madeira 2024). The comparison with *Xenopus laevis* was done with the conservation report provided in class, which includes a sequence alignment and a structural superposition.
+
 **RESULTS**
 
 **Comparison with other species**

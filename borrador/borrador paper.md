@@ -38,3 +38,9 @@ Despite being the most common MODY subtype in countries where routine genetic sc
 There are different risks involving pregnat women with MODY2. One of these is the increased rate of miscarriage due to the high levels of glucose the fetus is exposed to. While not being wide-reported, there have been cases of congenital malfromations to the offspring of mothers with MODY. Not all mothers with GCK-MODY produce affected affected kids, but these can still be affected to a degree, especially larger than the average. These larger new borns can even exceed those affected with affected mothers, and, evidently, those in which both the mother and the offspring are unaffected.
 
 To prevent these risks, or lower their rate, the main solution is the use of insulin therapy, due to its ability to prevent macrosomia and other effects of MODY2. This type of medication replace the amount of insulin needed that is not being produced, so that the body is not without necessary insulin. That being said, if the fetus has inherited it, since there is a risk of growth restriction, the treatment of maternal hyperglycemia should not be undertaken.
+
+**RESULTS**
+
+**Comparison with other species**
+
+Orthologs are the same gene in different species, inherited from a common ancestor. When a position in a protein has not changed during millions of years of evolution, it is probably important for the function of the protein. To study this in glucokinase, we compared the human protein with two other species: *Xenopus laevis* (African clawed frog), an amphibian that is distantly related to humans, and *Ovis aries* (sheep), a mammal that is closely related to humans. We expected the sheep protein to be much more similar to the human protein than the frog protein.

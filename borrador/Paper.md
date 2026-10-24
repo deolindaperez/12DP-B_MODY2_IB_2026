@@ -4,7 +4,7 @@
 [Department of bioinformatics, UPC Campus Nord, Barcelona, Spain]
 
 ## Abstract
-Human glucokinase (GK) is an enzyme of 465 amino acids that functions as a pancreatic cell glucose sensor, regulating insulin secretion and blood glucose homeostasis. 
+Human glucokinase (GK) is an enzyme of 465 amino acids that functions as a pancreatic cell glucose sensor, regulating insulin secretion and blood glucose homeostasis. An heterozigotic mutation of the gene GCK, the one encoding human glucokinase, produces a structural change in the final protein, causing Maturity Onset Diabets of the Young type 2 (MODY2). In this paper, we identify the mutation as a substitution of a single mucleotid at the chomosome 7 region 13, c.1015A>G that creates a missense mutation E339K, producing a mutant glucoquinase with an amino acid lysine at position 339 instead of the wild type glutamic acid.
 
 ## Background
 Diabetes is a chronic disease characterized by elevated blood glucose levels. It occurs when the body does not produce enough insulin (a hormone produced by the pancreas that allows glucose from food to enter cells, where it is used to generate energy). Insulin is secreted by the beta cells located in the islets of Langerhans (the endocrine portion of the pancreas). 

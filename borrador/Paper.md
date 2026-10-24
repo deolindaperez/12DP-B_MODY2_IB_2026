@@ -3,6 +3,8 @@
 [Maeve López Pardo, Deolinda Pérez, Biel Porté, Unai Ros, Ariadna Sospedra]  
 [Department of bioinformatics, UPC Campus Nord, Barcelona, Spain]
 
+## Abstract
+Human glucokinase (GK) is an enzyme of 465 amino acids that functions as a pancreatic cell glucose sensor, regulating insulin secretion and blood glucose homeostasis. 
 
 ## Background
 Diabetes is a chronic disease characterized by elevated blood glucose levels. It occurs when the body does not produce enough insulin (a hormone produced by the pancreas that allows glucose from food to enter cells, where it is used to generate energy). Insulin is secreted by the beta cells located in the islets of Langerhans (the endocrine portion of the pancreas). 

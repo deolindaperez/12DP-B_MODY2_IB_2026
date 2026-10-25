@@ -55,6 +55,9 @@ Glucokinase is highly conserved in vertebrates, which shows that its role as a g
 
 \*Percentage of positions with amino acids from the same physicochemical group. 
 
+## Genomics impact of mutation
+c.1015A>G
+
 
 ## Structural mechanism and kinetic impact of the GCK E339K mutation
 

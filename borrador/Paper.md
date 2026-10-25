@@ -37,37 +37,28 @@ In the liver, glucokinase helps to take up glucose and store it after meals. Dur
 Glucokinase is a monomer (a single protein chain) with two parts, a large domain and a small domain, separated by a cleft where glucose binds. Without glucose, the enzyme stays mostly in an inactive "super-open" shape. When glucose binds, the enzyme slowly changes to an active "closed" shape. This slow change of shape explains why glucokinase shows an S-shaped curve even though it has only one glucose-binding site (Kamata 2004).
 
 
-## Methods
-The gene FASTA files were provided to us by our professors Ricard Gonzalez, David Blázquez and Nuria Centeno, both the wild-type and mutant human glucokinase. Furthermore, two animal homolog of glucokinase, in Xenopus laevis and Ovis aeris, were obtained by BLAST. 
-Sequence alignment of those FASTA files was done with BLASTn, obtaining the exact locus of the mutation, c1015G>A.
+## Results  
 
-Cross-species and varial structural comparison: 
+### Genomics characterization of the E339K variant
 
-Sequence and structural comparisons between wild-type human glucokinase, the E339K variant (PDB3QIC) and its Xenopus laevis orthologue were provided by our professors as a conservation report.
+Comparison of the provided wild-type and mutant sequences revealed a single nucleotide substitution at position 1015 of the coding sequence (c.1015G>A; reference transcript NM_000162.5). This position corresponds to the first nucleotide of codon 339, which changes from [GAG] to [AAG]. The substitution is a transition (a purine replaced by another purine) and does not alter the reading frame or introduce a premature stop codon. Instead, it changes the encoded amino acid, classifying it as a missense variant (p.Glu339Lys, E339K).
 
-The human (UniProt P35557) and sheep (NCBI NP_001274400.1) glucokinase sequences were aligned with EMBOSS Needle (EBLOSUM62 matrix, gap open 10, gap extend 0.5) (Madeira 2024). The comparison with *Xenopus laevis* was done with the conservation report provided in class, which includes a sequence alignment and a structural superposition.  
+The variant replaces glutamate with lysine at position 339 of the 465-residue protein. These two amino acids have opposite electrostatic properties: glutamate is an acidic residue with a negative charge and can act as a hydrogen-bond acceptor, whereas lysine is a basic residue with a positive charge and can act as a hydrogen-bond donor. The substitution therefore reverses the local charge from −1 to +1.
 
-Orthologous sequences were identified with BLAST and corresponding three-dimensional structures were obtained from the Protein Data Bank and structural data bases. Structures were superimposed and their secondary structure assigned in ChimeraX, and the global Cα root-mean-square deviatiuon (RMSD) and per-residue backbone displacement were computed. 
-
-The 3D stucture of the protein was identified using the RCSB Protein Data Bank (PDB) Sequence Search tool by querying the mutated human glucokinase sequence at 100% sequence identity. Specific structural mechanisms, including the His416 physical  collision and Ser411–Thr82 loop interaction, along with kinetic parameters were extracted directly from the primary study's text, figures, and figure legends without external molecular modeling software.
-
-
-
-## Results
+This charge reversal may alter local interactions within the protein, motivating further investigation into the evolutionary conservation and structural environment of residue 339.
 
 ### Comparison with other species
 
-Orthologs are the same gene in different species, inherited from a common ancestor. When a position in a protein has not changed during millions of years of evolution, it is probably important for the function of the protein. To study this in glucokinase, we compared the human protein with two other species: *Xenopus laevis* (African clawed frog), an amphibian that is distantly related to humans, and *Ovis aries* (sheep), a mammal that is closely related to humans. We expected the sheep protein to be much more similar to the human protein than the frog protein.
+Orthologs are the same gene in different species, inherited from a common ancestor. When a position in a protein has not changed during millions of years of evolution, it is probably important for the function of the protein.
+To assess the evolutionary conservation of residue 339, human glucokinase was compared with its orthologues from Xenopus laevis (African clawed frog) and Ovis aries (sheep).
 
-The human and *Xenopus* proteins share 80.6% of their aligned positions, and 88.4% of the positions have amino acids from the same physicochemical group. Most of the differences are found at the beginning of the protein (the frog protein lacks the first seven residues) and in loops, which are flexible regions. Other regions are completely identical, for example residues 161–200. The secondary structure (alpha helices and beta strands) is almost the same in both species. The global RMSD between the two structures is 8.18 Å, which seems high. However, the superposition shows that one domain fits almost perfectly while the other is displaced as a block. This suggests that the two structures are in different conformations (open and closed), and not that the fold is different.
+The human and *Xenopus* proteins share 80.6% identity, and 88.4% of the aligned positions contain amino acids with similar physicochemical properties. Most of the differences are found at the beginning of the protein (the frog protein lacks the first seven residues) and in flexible loop regions. Other regions are completely identical, including residues 161–200. The secondary structure (alpha helices and beta strands) are also highly similar. The global root-mean-square deviation (RMSD) between the two structures is 8.18 Å. Although this value is relatively high, the structural superposition shows that one domain aligns closely while the other is displaced as a block. This suggests that the two structures are in different conformations (open and closed), rather than different overall protein folds.
 
-The sheep protein is much more similar to the human protein: a global alignment with EMBOSS Needle gave 96.6% identity and 98.3% similarity, with no gaps (both proteins have 465 residues). Only 16 positions are different, and most of them are changes between similar amino acids. None of them is between positions 309 and 341.
+The sheep protein is much more similar to the human glucokinase. Global alignment with EMBOSS Needle gave 96.6% identity and 98.3% similarity, with no gaps, as both proteins contain 465 residues. Only 16 positions are different, and most of them are changes between similar amino acids. None of them is between positions 309 and 341.
 
-In the three species, position 339 is a glutamate (E). This means that this residue has been conserved in mammals and amphibians, so the E339K mutation changes a position that evolution has not allowed to change. In addition, the local backbone displacement at position 339 between human and *Xenopus* (3.13 Å) is larger than between the wild-type and the mutant (2.49 Å), even though the frog enzyme works normally. This suggests that the problem of E339K is not only the movement of the backbone, but the change of charge from negative to positive, which breaks the interactions of glutamate 339 with His416 and Arg422 (Liu 2011).
+In the three species, position 339 is a glutamate (E). This means that this residue has been conserved in mammals and amphibians, so the E339K mutation changes a position that evolution has not allowed to change. Additionally, the local backbone displacement at position 339 between human and *Xenopus* (3.13 Å) is larger than between the wild-type and the mutant (2.49 Å). This suggests that the functional effects of E339K do not depend only on backbone displacement but also on the reversal of the residue's charge and its interactions with surrounding amino acids (Liu 2011).
 
-Glucokinase is highly conserved in vertebrates, which shows that its role as a glucose sensor is essential. Because E339 is conserved even in distantly related species, a change at this position is likely to affect the function of the enzyme, which agrees with the reduced activity of the E339K mutant and the hyperglycaemia seen in patients.
-
-**Table 1.** Comparison of human glucokinase with its orthologs.
+**Table 1.** Comparison of human glucokinase with its orthologues.
 
 | Species | Identity with human | Similarity with human | Residue 339 | Source |
 |---|---|---|---|---|
@@ -77,31 +68,19 @@ Glucokinase is highly conserved in vertebrates, which shows that its role as a g
 
 \*Percentage of positions with amino acids from the same physicochemical group. 
 
-## Genomics impact of mutation
 
-### Nucleotide change  
+### Structural and kinetic impact of GCK E339K mutation
 
-Comparison of the wild-type and mutant sequences provided revealed a single nucleotide substitution at position 1015 of the coding sequence (c.1015G>A; reference transcript ([NM_000162.X]). This position corresponds to the first nucleotide of codon 339, which changes from [GAG] to [AAG]. The substitution is a transition (a purine replaced by another purine) and does not alter the reading frame or introduce a premature stop codon. Instead, it changes the encoded amino acid, classifying it as a missense variant (p.Glu339Lys, E339K). Affected individuals are heterozygous, carrying one wild-type and one mutant allele, consistent with the autosomal dominant inheritance of MODY2.
+In the wild-type (WT) structure, the glutamate residue at position 339 (Glu339) forms two key hydrogen bonds: one with His416 at a distance of 2.8 Å and another with Arg422 at 3.3 Å. These interactions stabilize helix 9 and help maintain the proper alignment of His416.  
 
-### Amino acid substitution
-The variant replaces glutamate with lysine at position 339 of the 465-residue protein. Both residues have opposite chemical properties; glutamate is an acidic residue with a negative charge and the ability to act as a hydrogen-bond acceptor,lysine is a basic residue with a positive charge and acting as a hydrogen-bond donor. The substitution therefore reverses the local charge from −1 to +1.
-
-Glu339 is conserved in all three species analysed, indicating that this position has been maintained across mammals and amphibians. Notably, glutamate-to-lysine exchanges are generally tolerated during evolution, which suggests that the effect of E339K depends on the specific structural environment of residue 339 rather than on the substitution itself.
-
-
-## Structural and kinetic impact of GCK E339K mutation
-
-In individuals carrying the heterozygous E339K mutation in the GCK gene, cells express one functional wild-type allele alongside one mutated allele. 
-In the wild-type (WT) structure, the glutamic acid residue at position 339 (Glu339) forms two key hydrogen bonds: one with His416 at a distance of 2.8 Å and another with Arg422 at 3.3 Å. These interactions stabilize helix 9 and keep His416 properly aligned within its own helix. 
-
-In the E339K mutant, Glu339 is substituted by a positively charged lysine (Lys339), so this stabilizing network is lost. 
+In the E339K mutant, Glu339 is replaced by a positively charged lysine (Lys339), so this stabilizing network is lost. 
 Lys339 reorients 180º to form a new hydrogen bond, since two positive charges repel each other (His416 - Lys339); this shortens helix 9 (Figure 1) and destabilizes the surrounding region.
-The loss of the hydrogen bond with residue 339 allows the side chain of His416 to rotate by nearly 90º directly into the ATP-binding pocket. The 3D structure of the protein shows that when His416 rotates, it gets too close to the ATP binding site (just 1.5 Å away). 
+The loss of the original interaction with residue 339 allows the side chain of His416 to rotate by nearly 90º towards the ATP-binding pocket. According to the structural analysis reported by Liu et al. (2011), this rotation creates a physical blockage that may interfere with ATP binding.
 It is important to note the use of ATP analog AMPPTP in the 3D structure instead of native ATP, in order to prevent the catalytic activity of glucokinase during crystalization. 
-This creates a physical collision that blocks ATP from entering (Figure 1). At the same time, the mutant enzyme undergoes accidental autophosphorylation at Serine 411 (Ser411), attaching a phosphate group to its own serine using cellular ATP.
-The resulting phosphorylated serine forms a new hydrogen bond with Thr82, pulling the surrounding loop 3 Å closer to the large domain. Together, Ser411 and Thr82 act as a physical closed door that seals the entrance to the ATP pocket (Figure 2).
 
-These structural modifications directly alter the kinetic properties of the mutant enzyme. The combined blockage by His416 and the Ser411-Thr82 interaction reduces the enzyme's affinity for ATP by 5 times, increasing the Km value from 0.32 mM in the wild-type enzyme to 1.50 mM in the mutant. Additionally, the overall relative activity drops by 80%, leaving the mutant enzyme with only 20% of its normal catalytic capacity.  This ultimately translates to glucose S{0.5} increasing  from 8.65 mM to 15.44.
+Additionally, the mutant structure contains a phosphorylated serine residue at position 411 (Ser411). The phosphorylated residue forms a hydrogen bond with Thr82, bringing the surrounding loop approximately 3 Å closer to the large domain. This structural rearrangement further restricts access to the ATP-binding pocket (Figure 2).
+
+These structural modifications are associated with changes in the kinetic properties of the mutant enzyme. The ATP Michaelis constant (Kₘ) increases from 0.32 mM in the wild-type enzyme to 1.50 mM in the E339K mutant, indicating an approximately reduction in ATP affinity. Additionally, the overall relative activity drops by 80%, leaving the mutant enzyme with only 20% of its normal catalytic capacity. The glucose half-saturation concentration (S₀.₅) also increases from 8.65 mM to 15.44 mM.
 
 Because the mutant protein loses 80% of its activity, pancreatic cells need higher blood sugar levels than normal to release insulin. This higher limit is the direct cause of high blood sugar (hyperglycemia) in MODY2 patients.
 
@@ -126,11 +105,32 @@ Because the mutant protein loses 80% of its activity, pancreatic cells need high
 | Wild-type | 8.65 ± 0.28 | 0.32 ± 0.06 | 1.00 | 3.9–5.5 mM | Efficient ATP binding and glucose responsiveness within the physiological range set the threshold for insulin secretion at ~5 mM. |
 | E339K | 15.44 ± 0.48 |  1.50 ± 0.18 | 0.20 | ~5.5–8 mM | ~5-fold weaker ATP binding and a ~2-fold higher glucose requirement reduce estimated activity to 20%, raising the β-cell glucose threshold for insulin secretion. Retention of one wild-type allele limits this to mild, stable hyperglycaemia. |
 
-\*Parameters above are taken from Liu et al. [1]. Fasting glucose concentration is an average of GCK-MODY patients in general, not E339K in specific. 
+\*Kinetic parameters are reported by Liu et al. (2011). The fasting glucose concentration range for GCK-MODY is general and is not specific to individuals carrying E339K.
 
 ## Discussion
 
 Pregnancy can result in different problems or risks for the unborn child. The main problem arises from whether the fetus has inherited the mutation or not from one of the two progenitors. In the case that it indeed does have it, since both the mother and the child have slightly elevated glucose levels, the fetus’ liver does not sense any noticeable difference, and thus secretes the appropriate amount of insulin, resulting in a normal fetal growth. In the other case, where the fetus has not inherited the mutation, their liver detects the mother’s higher level of glucose, perceiving it as a hyperglycemia. This results in a hypersecretion of insulin, which serves as a key growth factor, consequently leading to macrosomia, the overgrowth of the fetus.
+
+## Conclusions
+
+## Methods
+The gene FASTA files were provided to us by our professors Ricard Gonzalez, David Blázquez and Nuria Centeno, both the wild-type and mutant human glucokinase. Furthermore, two animal homolog of glucokinase, in Xenopus laevis and Ovis aeris, were obtained by BLAST. 
+Sequence alignment of those FASTA files was done with BLASTn, obtaining the exact locus of the mutation, c1015G>A.
+
+Cross-species and varial structural comparison: 
+
+Sequence and structural comparisons between wild-type human glucokinase, the E339K variant (PDB3QIC) and its Xenopus laevis orthologue were provided by our professors as a conservation report.
+
+The human (UniProt P35557) and sheep (NCBI NP_001274400.1) glucokinase sequences were aligned with EMBOSS Needle (EBLOSUM62 matrix, gap open 10, gap extend 0.5) (Madeira 2024). The comparison with *Xenopus laevis* was done with the conservation report provided in class, which includes a sequence alignment and a structural superposition.  
+
+Orthologous sequences were identified with BLAST and corresponding three-dimensional structures were obtained from the Protein Data Bank and structural data bases. Structures were superimposed and their secondary structure assigned in ChimeraX, and the global Cα root-mean-square deviatiuon (RMSD) and per-residue backbone displacement were computed. 
+
+The 3D stucture of the protein was identified using the RCSB Protein Data Bank (PDB) Sequence Search tool by querying the mutated human glucokinase sequence at 100% sequence identity. Specific structural mechanisms, including the His416 physical  collision and Ser411–Thr82 loop interaction, along with kinetic parameters were extracted directly from the primary study's text, figures, and figure legends without external molecular modeling software.
+
+## Abbreviations
+
+## Declarations
+
 
 ## References
 1. Q. Liu, Y. Shen, S. Liu, J. Weng, and J. Liu, 'Crystal structure of E339K mutated human glucokinase reveals changes in the ATP binding site', *FEBS Letters*, vol. 585 (2011), doi: 10.1016/j.febslet.2011.03.026.

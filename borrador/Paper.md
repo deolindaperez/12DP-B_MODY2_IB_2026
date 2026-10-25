@@ -27,18 +27,6 @@ Structurally this protein is composed of two domains, the large one and the smal
 One of the mutations associated with MODY2 is E339K (c.1015G>A), which replaces glutamate with lysine at position 339 of the protein. Previous studies have shown that this mutation affects the structure and activity of glucokinase (Liu 2011). In this study, we aim to analyse the E339K mutation by comparing glucokinase sequences from different species and studying its genetic and structural effects. Our goal is to better understand how this mutation changes the function of glucokinase and contributes to MODY2. 
 
 
-
-### Physiology of wild-type glucokinase
-
-Other hexokinases (types I–III) bind glucose very strongly, so they already work at full speed even when there is very little glucose. Glucokinase is different in three ways: it has a low affinity for glucose (it reaches half of its maximum speed at about 8-10 mM), its activity follows an S-shaped (sigmoidal) curve with a Hill coefficient of about 1.7, and it is not significantly inhibited by its product, G6P, at normal concentrations (Matschinsky 1993, Liu 2011). Because of this, the speed of glucokinase changes with blood glucose levels within the normal range. This is why glucokinase works as the body's glucose sensor.
-
-In pancreatic beta cells, glucokinase controls the slowest (rate-limiting) step of glucose metabolism. After a meal, blood glucose rises and glucose enters the beta cell, where glucokinase phosphorylates it. As glucose is broken down through glycolysis and in the mitochondria, the cell produces more ATP. The higher ATP/ADP ratio closes ATP-sensitive potassium (K-ATP) channels in the cell membrane. This changes the electrical charge of the membrane (depolarization), which opens calcium channels. Calcium then enters the cell and causes the release of insulin from storage granules (Thompson 2021). Since glucokinase controls the speed of this whole chain, it sets the blood glucose threshold for insulin release at about 5 mM (Matschinsky 1993).
-
-In the liver, glucokinase helps to take up glucose and store it after meals. During fasting, when glucose is low, another protein called glucokinase regulatory protein (GKRP) binds glucokinase and keeps it inactive inside the nucleus. This stops the liver from using glucose when the body needs it. When blood glucose rises after a meal, glucokinase is released and moves to the cytoplasm, where the G6P it produces is used to make glycogen, the liver's glucose store (Postic 2001).
-
-Glucokinase is a monomer (a single protein chain) with two parts, a large domain and a small domain, separated by a cleft where glucose binds. Without glucose, the enzyme stays mostly in an inactive "super-open" shape. When glucose binds, the enzyme slowly changes to an active "closed" shape. This slow change of shape explains why glucokinase shows an S-shaped curve even though it has only one glucose-binding site (Kamata 2004).
-
-
 ## Results  
 
 ### Genomics characterization of the E339K variant

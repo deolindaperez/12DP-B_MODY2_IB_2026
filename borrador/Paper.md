@@ -80,7 +80,7 @@ c.1015G>A ## Genomic and protein-level impact of the E339K variant
 
 ### Nucleotide change
 
-The *GCK* gene is located on chromosome 7p13. Comparison of the wild-type and mutant sequences provided revealed a single nucleotide substitution at position 1015 of the coding sequence (c.1015G>A; reference transcript [NM_000162.X]), located in exon [X]. This position corresponds to the first nucleotide of codon 339, which changes from [GAG] to [AAG]. The substitution is a transition (a purine replaced by another purine) and does not alter the reading frame or introduce a premature stop codon. Instead, it changes the encoded amino acid, classifying it as a missense variant (p.Glu339Lys, E339K). Affected individuals are heterozygous, carrying one wild-type and one mutant allele, consistent with the autosomal dominant inheritance of MODY2.
+Comparison of the wild-type and mutant sequences provided revealed a single nucleotide substitution at position 1015 of the coding sequence (c.1015G>A; reference transcript [NM_000162.X]), located in exon [X]. This position corresponds to the first nucleotide of codon 339, which changes from [GAG] to [AAG]. The substitution is a transition (a purine replaced by another purine) and does not alter the reading frame or introduce a premature stop codon. Instead, it changes the encoded amino acid, classifying it as a missense variant (p.Glu339Lys, E339K). Affected individuals are heterozygous, carrying one wild-type and one mutant allele, consistent with the autosomal dominant inheritance of MODY2.
 
 ### Amino acid substitution
 

@@ -4,7 +4,7 @@
 [Department of bioinformatics, UPC Campus Nord, Barcelona, Spain]
 
 ## Abstract
-Human glucokinase (GK) is an enzyme of 465 amino acids that functions as a beta-cell glucose sensor, regulating insulin secretion and blood glucose homeostasis. An heterozigotic mutation of the gene GCK, the one encoding human glucokinase, produces a structural change in the final protein, causing Maturity Onset Diabets of the Young type 2 (MODY2). In this paper, we identify the mutation as a substitution of a single nucleotid at the chomosome 7 region 13, c.1015G>A; which creates a missense mutation E339K (PDB entry 3QIC). Glu339 and Lys339 differ chemically from negative to positive charge, and will create a different bond with  His416 resulting in a 90º conformational change. 
+Human glucokinase (GK) is a dynamic enzyme of 465 amino acids that functions as a beta-cell glucose sensor, regulating insulin secretion and blood glucose homeostasis. An heterozigotic mutation of the gene GCK, the one encoding human glucokinase, produces a structural change in the final protein, causing Maturity Onset Diabets of the Young type 2 (MODY2). In this paper, we identify the mutation as a single nucleotid substitution in GCK gene, c.1015G>A; which creates a missense mutation E339K (PDB entry 3QIC). Glu339 and Lys339 differ chemically from negative to positive charge, losing a crucial bond with His416 and forcing it to a 90º conformational change towards the active site. Furthermore, the mutant protein will autophosphorylate Ser411 into SEP411, physically closing the ATP-binging pocket. The resulting mutant protein will have its glucose affinity significantly lowered, efectivelly rising the insulin threshold.
 
 ## Keywords
 GCK gene, mutation, Glucokinase, E339K, structural change

@@ -9,7 +9,7 @@ Human glucokinase (GK) is an enzyme of 465 amino acids that functions as a pancr
 ## Background
 
 
-## Physiology of wild-type glucokinase
+### Physiology of wild-type glucokinase
 Glucokinase (GK, also called hexokinase IV) is an enzyme encoded by the *GCK* gene on chromosome 7p13. It catalyses the first step of glucose metabolism: it adds a phosphate group to glucose, using ATP, to produce glucose-6-phosphate (G6P). It is found mainly in pancreatic beta cells and in liver cells (hepatocytes). The gene has two tissue-specific promoters, so the pancreas and the liver produce slightly different versions (isoforms) of the enzyme (Postic 2001).
 
 Other hexokinases (types I–III) bind glucose very strongly, so they already work at full speed even when there is very little glucose. Glucokinase is different in three ways: it has a low affinity for glucose (it reaches half of its maximum speed at about 8-10 mM), its activity follows an S-shaped (sigmoidal) curve with a Hill coefficient of about 1.7, and it is not significantly inhibited by its product, G6P, at normal concentrations (Matschinsky 1990, Matschinsky 1993). Because of this, the speed of glucokinase changes with blood glucose levels within the normal range. This is why glucokinase works as the body's glucose sensor.
@@ -20,7 +20,7 @@ In the liver, glucokinase helps to take up glucose and store it after meals. Dur
 
 Glucokinase is a monomer (a single protein chain) with two parts, a large domain and a small domain, separated by a cleft where glucose binds. Without glucose, the enzyme stays mostly in an inactive "super-open" shape. When glucose binds, the enzyme slowly changes to an active "closed" shape. This slow change of shape explains why glucokinase shows an S-shaped curve even though it has only one glucose-binding site (Kamata 2004).
 
-## Secondary effects
+### Secondary effects
 Despite being the most common MODY subtype in countries where routine genetic screenings are performed, the secondary effects of MODY2 and its symptoms are difficult to encounter and detect without proper tests. That being said, mild, benign and asymptomatic hyperglycemia characterise individuals with illness, though normally having no necessity for any pharmacological treatment. The most negative effect it can have is on women during pregnancy due to the fact that the development of the fetus in the case that it has inherited the GSK mutation.
 
 There are different risks involving pregnat women with MODY2. One of these is the increased rate of miscarriage due to the high levels of glucose the fetus is exposed to. While not being wide-reported, there have been cases of congenital malfromations to the offspring of mothers with MODY. Not all mothers with GCK-MODY produce affected affected kids, but these can still be affected to a degree, especially larger than the average. These larger new borns can even exceed those affected with affected mothers, and, evidently, those in which both the mother and the offspring are unaffected.

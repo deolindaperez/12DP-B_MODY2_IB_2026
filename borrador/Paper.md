@@ -4,10 +4,10 @@
 [Department of bioinformatics, UPC Campus Nord, Barcelona, Spain]
 
 ## Abstract
-Human glucokinase (GK) is an enzyme of 465 amino acids that functions as a beta-cell glucose sensor, regulating insulin secretion and blood glucose homeostasis. An heterozigotic mutation of the gene GCK, the one encoding human glucokinase, produces a structural change in the final protein, causing Maturity Onset Diabets of the Young type 2 (MODY2). In this paper, we identify the mutation as a substitution of a single nucleotid at the chomosome 7 region 13, c.1015G>A; which creates a missense mutation E339K (PDB entry 3QIC). Glu339 and Lys339 differ chemically from negative to positive charge, and will create totally different bonds with surrounding amino acids. Two significant conformational change happens very close to the active site because glutamic 
+Human glucokinase (GK) is an enzyme of 465 amino acids that functions as a beta-cell glucose sensor, regulating insulin secretion and blood glucose homeostasis. An heterozigotic mutation of the gene GCK, the one encoding human glucokinase, produces a structural change in the final protein, causing Maturity Onset Diabets of the Young type 2 (MODY2). In this paper, we identify the mutation as a substitution of a single nucleotid at the chomosome 7 region 13, c.1015G>A; which creates a missense mutation E339K (PDB entry 3QIC). Glu339 and Lys339 differ chemically from negative to positive charge, and will create a different bond with  His416 resulting in a 90º conformational change. 
 
 ## Keywords
-GLucokinase, E339K
+GCK gene, mutation, Glucokinase, E339K, structural change
 
 ## BACKGROUNDS
 Maturity-onset diabetes of the young type 2 (MODY2) is a form of monogenic diabetes characterized by autosomal dominant inheritance, located in chromosome 7p13,  and non-autoimmune β-cell dysfunction. It is typically diagnosed before the age of 25 years following the detection of hyperglycaemia, and is associated with primary defects in insulin secretion. Its clinical course and management, however, depend on the gene involved. It does not require treatment expect in special circumstances. Is a stable hyperglycaemia that is rarely associated with vascular complications and generally requires no pharmacological treatment beyond lifestyle and dietary measures. 
@@ -117,7 +117,7 @@ Because the mutant protein loses 80% of its activity, pancreatic cells need high
 | Wild-type | 8.65 ± 0.28 | 0.32 ± 0.06 | 1.00 | 3.9–5.5 mM | Efficient ATP binding and glucose responsiveness within the physiological range set the threshold for insulin secretion at ~5 mM. |
 | E339K | 15.44 ± 0.48 |  1.50 ± 0.18 | 0.20 | ~5.5–8 mM | ~5-fold weaker ATP binding and a ~2-fold higher glucose requirement reduce estimated activity to 20%, raising the β-cell glucose threshold for insulin secretion. Retention of one wild-type allele limits this to mild, stable hyperglycaemia. |
 
-Parameters above are taken from Liu et al. [1]. Fasting glucose concentration is an average of GCK-MODY patients in general, not E339K in specific. 
+\*Parameters above are taken from Liu et al. [1]. Fasting glucose concentration is an average of GCK-MODY patients in general, not E339K in specific. 
 
 ## Discussion
 

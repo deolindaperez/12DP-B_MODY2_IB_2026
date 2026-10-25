@@ -9,7 +9,7 @@ Human glucokinase (GK) is an enzyme of 465 amino acids that functions as a pancr
 ## Keywords
 GLucokinase, E339K
 
-## Background
+## BACKGROUNDS
 
 
 ### Physiology of wild-type glucokinase

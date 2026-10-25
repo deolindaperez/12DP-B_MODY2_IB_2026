@@ -4,7 +4,7 @@
 [Department of bioinformatics, UPC Campus Nord, Barcelona, Spain]
 
 ## Abstract
-Human glucokinase (GK) is an enzyme of 465 amino acids that functions as a pancreatic cell glucose sensor, regulating insulin secretion and blood glucose homeostasis. An heterozigotic mutation of the gene GCK, the one encoding human glucokinase, produces a structural change in the final protein, causing Maturity Onset Diabets of the Young type 2 (MODY2). In this paper, we identify the mutation as a substitution of a single mucleotid at the chomosome 7 region 13, c.1015A>G that creates a missense mutation E339K, producing a mutant glucoquinase with an amino acid lysine at position 339 instead of the wild type glutamic acid.
+Human glucokinase (GK) is an enzyme of 465 amino acids that functions as a pancreatic cell glucose sensor, regulating insulin secretion and blood glucose homeostasis. An heterozigotic mutation of the gene GCK, the one encoding human glucokinase, produces a structural change in the final protein, causing Maturity Onset Diabets of the Young type 2 (MODY2). In this paper, we identify the mutation as a substitution of a single mucleotid at the chomosome 7 region 13, c.1015A>G that creates a missense mutation E339K, producing a mutant glucoquinase with an amino acid lysine at position 339 instead of the wild type glutamic acid. 
 
 ## Background
 
@@ -73,11 +73,11 @@ Because the mutant protein loses 80% of its activity, pancreatic cells need high
   <tr>
     <td align="center">
       <img src="https://github.com/user-attachments/assets/a0606261-466c-4d71-b35e-d553df7bada0" width="450" alt="Figure 1"><br>
-      <sub><b>Figure 1.</b> 3D structure highlighting the 90° rotation of His416 into the ATP-binding pocket (PDB: 3QIC).</sub>
+      <sub><b>Figure 1.</b> 3D structure highlighting the 90° rotation of His416 into the ATP-binding pocket (PDB: 3QIC). Blue for Wild-type structure and orange of mutant variant.</sub>
     </td>
     <td align="center">
       <img src="https://github.com/user-attachments/assets/b98a2231-b9dc-47f1-a11a-10a1886ddcf3" width="450" alt="Figure 2"><br>
-      <sub><b>Figure 2.</b> Detail of the phosphorylated Ser411 and Thr82 interaction forming the closed door mechanism.</sub>
+      <sub><b>Figure 2.</b> Detail of the phosphorylated Ser411 and Thr82 interaction forming the closed door mechanism. Blue for Wild-type structure and orange of mutant variant.</sub>
     </td>
   </tr>
 </table>

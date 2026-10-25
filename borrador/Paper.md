@@ -104,18 +104,13 @@ Pregnancy can result in different problems or risks for the unborn child. The ma
 ## Conclusions
 
 ## Methods
-The gene FASTA files were provided to us by our professors Ricard Gonzalez, David Blázquez and Nuria Centeno, both the wild-type and mutant human glucokinase. Furthermore, two animal homolog of glucokinase, in Xenopus laevis and Ovis aeris, were obtained by BLAST. 
-Sequence alignment of those FASTA files was done with BLASTn, obtaining the exact locus of the mutation, c1015G>A.
+The wild-type and mutant human glucokinase FASTA sequences were provided as part of the course materials. Glucokinase orthologues from *Xenopus laevis* were also considered. The human glucokinase sequence was obtained from UniProt (P35557), and the sheep sequence from NCBI (NP_001274400.1). A conservation report provided in class included sequence and structural comparisons between wild-type human glucokinase, the E339K variant (PDB ID: 3QIC) and the *Xenopus laevis* orthologue.
 
-Cross-species and varial structural comparison: 
+The wild-type and mutant nucleotide sequences were compared using BLASTn to identify the c.1015G>A substitution. BLAST was also used to identify glucokinase orthologues from other species. The human and sheep protein sequences were aligned using EMBOSS Needle with the EBLOSUM62 substitution matrix, a gap opening penalty of 10 and a gap extension penalty of 0.5 (Madeira 2024). The comparison with *Xenopus laevis* was based on the sequence alignment and structural superposition included in the course conservation report.
 
-Sequence and structural comparisons between wild-type human glucokinase, the E339K variant (PDB3QIC) and its Xenopus laevis orthologue were provided by our professors as a conservation report.
+The three-dimensional structure of the E339K variant was identified using the RCSB Protein Data Bank (PDB) Sequence Search tool with the mutated human glucokinase sequence and a sequence identity threshold of 100%. Protein structures were superimposed, and their secondary structures were assigned using ChimeraX. Structural differences were evaluated using the global Cα root-mean-square deviation (RMSD) and per-residue backbone displacement. Sequence conservation was assessed by comparing identical and similar amino acid positions across species.
 
-The human (UniProt P35557) and sheep (NCBI NP_001274400.1) glucokinase sequences were aligned with EMBOSS Needle (EBLOSUM62 matrix, gap open 10, gap extend 0.5) (Madeira 2024). The comparison with *Xenopus laevis* was done with the conservation report provided in class, which includes a sequence alignment and a structural superposition.  
-
-Orthologous sequences were identified with BLAST and corresponding three-dimensional structures were obtained from the Protein Data Bank and structural data bases. Structures were superimposed and their secondary structure assigned in ChimeraX, and the global Cα root-mean-square deviatiuon (RMSD) and per-residue backbone displacement were computed. 
-
-The 3D stucture of the protein was identified using the RCSB Protein Data Bank (PDB) Sequence Search tool by querying the mutated human glucokinase sequence at 100% sequence identity. Specific structural mechanisms, including the His416 physical  collision and Ser411–Thr82 loop interaction, along with kinetic parameters were extracted directly from the primary study's text, figures, and figure legends without external molecular modeling software.
+Kinetic parameters, including glucose S₀.₅, ATP Kₘ and relative enzymatic activity, as well as information about the structural mechanisms involving His416 and the Ser411–Thr82 interaction, were obtained from the primary study by Liu et al. (2011), using its text, figures and figure legends. These values were used to compare wild-type glucokinase with the E339K variant. No additional molecular modelling, new kinetic experiments or statistical tests were performed.
 
 ## Abbreviations
 

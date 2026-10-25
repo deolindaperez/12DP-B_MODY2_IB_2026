@@ -9,7 +9,7 @@ Human glucokinase (GK) is a dynamic enzyme of 465 amino acids that functions as 
 ## Keywords
 GCK gene, mutation, Glucokinase, E339K, structural change
 
-## BACKGROUNDS
+## Background
 Maturity-onset diabetes of the young type 2 (MODY2) is a form of monogenic diabetes characterized by autosomal dominant inheritance, located in chromosome 7p13,  and non-autoimmune β-cell dysfunction. It is typically diagnosed before the age of 25 years following the detection of hyperglycaemia, and is associated with primary defects in insulin secretion. Its clinical course and management, however, depend on the gene involved. It does not require treatment expect in special circumstances. Is a stable hyperglycaemia that is rarely associated with vascular complications and generally requires no pharmacological treatment beyond lifestyle and dietary measures. 
 
 The exact prevalence of MODY remains uncertain but it is estimated to account for 1.1 - 6.5% of paedriatic diabetes cases, with marked geographical variation largely attributable to differences in the criteria used to identify cases. GCK-MODY, HNF1A-MODY, and HNF4A-MODY account for more than 90% of MODY cases with a genetic confirmation in several studies in the UK, Europe, and the USA. 
@@ -47,9 +47,9 @@ The 3D stucture of the protein was identified using the RCSB Protein Data Bank (
 
 
 
-## RESULTS
+## Results
 
-## Comparison with other species
+### Comparison with other species
 
 Orthologs are the same gene in different species, inherited from a common ancestor. When a position in a protein has not changed during millions of years of evolution, it is probably important for the function of the protein. To study this in glucokinase, we compared the human protein with two other species: *Xenopus laevis* (African clawed frog), an amphibian that is distantly related to humans, and *Ovis aries* (sheep), a mammal that is closely related to humans. We expected the sheep protein to be much more similar to the human protein than the frog protein.
 
@@ -61,7 +61,7 @@ In the three species, position 339 is a glutamate (E). This means that this resi
 
 Glucokinase is highly conserved in vertebrates, which shows that its role as a glucose sensor is essential. Because E339 is conserved even in distantly related species, a change at this position is likely to affect the function of the enzyme, which agrees with the reduced activity of the E339K mutant and the hyperglycaemia seen in patients.
 
-**Table X.** Comparison of human glucokinase with its orthologs.
+**Table 1.** Comparison of human glucokinase with its orthologs.
 
 | Species | Identity with human | Similarity with human | Residue 339 | Source |
 |---|---|---|---|---|
@@ -83,7 +83,7 @@ The variant replaces glutamate with lysine at position 339 of the 465-residue pr
 Glu339 is conserved in all three species analysed, indicating that this position has been maintained across mammals and amphibians. Notably, glutamate-to-lysine exchanges are generally tolerated during evolution, which suggests that the effect of E339K depends on the specific structural environment of residue 339 rather than on the substitution itself.
 
 
-## Structural mechanism and kinetic impact of the GCK E339K mutation
+## Structural and kinetic impact of GCK E339K mutation
 
 In individuals carrying the heterozygous E339K mutation in the GCK gene, cells express one functional wild-type allele alongside one mutated allele. In the wild-type (WT) structure, the glutamic acid residue at position 339 (Glu339) forms two key hydrogen bonds: one with His416 at a distance of 2.8 Å and another with Arg422 at 3.3 Å. These interactions stabilize helix 9 and keep His416 properly aligned. 
 

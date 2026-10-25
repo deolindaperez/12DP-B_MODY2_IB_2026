@@ -110,7 +110,7 @@ Because the mutant protein loses 80% of its activity, pancreatic cells need high
 **Table 2.** Kinetic parameters and fasting glucose levels associated with wild-type and E339K human glucokinase.
 
 | Variant | Glucose S<sub>0.5</sub> (mM) | ATP K<sub>m</sub> (mM) | Relative activity | Fasting glucose concentration | Interpretation |
-|---|---|---|---|---|---|---|
+|---|---|---|---|---|---|
 | Wild-type | 8.65 ± 0.28 | 0.32 ± 0.06 | 1.00 | 3.9–5.5<sup>a</sup> | Efficient ATP binding and glucose responsiveness within the physiological range set the threshold for insulin secretion at ~5 mM. |
 | E339K | 15.44 ± 0.48 |  1.50 ± 0.18 | 0.20 | ~5.5–8<sup>b</sup> | ~5-fold weaker ATP binding and a ~2-fold higher glucose requirement reduce estimated activity to 20%, raising the β-cell glucose threshold for insulin secretion. Retention of one wild-type allele limits this to mild, stable hyperglycaemia. |
 

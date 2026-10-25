@@ -78,7 +78,9 @@ Glucokinase is highly conserved in vertebrates, which shows that its role as a g
 Comparison of the wild-type and mutant sequences provided revealed a single nucleotide substitution at position 1015 of the coding sequence (c.1015G>A; reference transcript ([NM_000162.X]). This position corresponds to the first nucleotide of codon 339, which changes from [GAG] to [AAG]. The substitution is a transition (a purine replaced by another purine) and does not alter the reading frame or introduce a premature stop codon. Instead, it changes the encoded amino acid, classifying it as a missense variant (p.Glu339Lys, E339K). Affected individuals are heterozygous, carrying one wild-type and one mutant allele, consistent with the autosomal dominant inheritance of MODY2.
 
 ### Amino acid substitution
+The variant replaces glutamate with lysine at position 339 of the 465-residue protein. Both residues have opposite chemical properties; glutamate is an acidic residue with a negative charge and the ability to act as a hydrogen-bond acceptor,lysine is a basic residue with a positive charge and acting as a hydrogen-bond donor. The substitution therefore reverses the local charge from −1 to +1.
 
+Glu339 is conserved in all three species analysed, indicating that this position has been maintained across mammals and amphibians. Notably, glutamate-to-lysine exchanges are generally tolerated during evolution, which suggests that the effect of E339K depends on the specific structural environment of residue 339 rather than on the substitution itself.
 
 
 ## Structural mechanism and kinetic impact of the GCK E339K mutation

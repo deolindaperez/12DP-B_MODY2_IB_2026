@@ -7,14 +7,7 @@
 Human glucokinase (GK) is an enzyme of 465 amino acids that functions as a pancreatic cell glucose sensor, regulating insulin secretion and blood glucose homeostasis. An heterozigotic mutation of the gene GCK, the one encoding human glucokinase, produces a structural change in the final protein, causing Maturity Onset Diabets of the Young type 2 (MODY2). In this paper, we identify the mutation as a substitution of a single mucleotid at the chomosome 7 region 13, c.1015A>G that creates a missense mutation E339K, producing a mutant glucoquinase with an amino acid lysine at position 339 instead of the wild type glutamic acid.
 
 ## Background
-Diabetes is a chronic disease characterized by elevated blood glucose levels. It occurs when the body does not produce enough insulin (a hormone produced by the pancreas that allows glucose from food to enter cells, where it is used to generate energy). Insulin is secreted by the beta cells located in the islets of Langerhans (the endocrine portion of the pancreas). 
-MODY2 is a benign genetic condition that raises baseline blood glucose levels. However, because the body is still able to use insulin and transport glucose into cells, the cells do not experience an energy deficit, and the typical destructive complications associated with conventional diabetes do not occur.
 
-The main mechanism involved in diabetes is as follows: insulin has a regulatory function by binding to receptors on target cells (skeletal muscle, adipose tissue, and liver cells), allowing glucose to enter the cells.
-
-In type 1 diabetes, the pancreas does not produce enough insulin. As a result, glucose cannot enter the cells, leading to a lack of energy. Extracellularly (in the bloodstream), hyperglycemia develops: glucose accumulates in the blood at very high levels.
-
-In type 2 diabetes, it is the cells that do not respond properly to the hormone; this condition is known as insulin resistance.
 
 ## Physiology of wild-type glucokinase
 Glucokinase (GK, also called hexokinase IV) is an enzyme encoded by the *GCK* gene on chromosome 7p13. It catalyses the first step of glucose metabolism: it adds a phosphate group to glucose, using ATP, to produce glucose-6-phosphate (G6P). It is found mainly in pancreatic beta cells and in liver cells (hepatocytes). The gene has two tissue-specific promoters, so the pancreas and the liver produce slightly different versions (isoforms) of the enzyme (Postic 2001).

@@ -4,7 +4,7 @@
 [Department of bioinformatics, UPC Campus Nord, Barcelona, Spain]
 
 ## Abstract
-Human glucokinase (GK) is an enzyme of 465 amino acids that functions as a pancreatic cell glucose sensor, regulating insulin secretion and blood glucose homeostasis. An heterozigotic mutation of the gene GCK, the one encoding human glucokinase, produces a structural change in the final protein, causing Maturity Onset Diabets of the Young type 2 (MODY2). In this paper, we identify the mutation as a substitution of a single mucleotid at the chomosome 7 region 13, c.1015A>G; which creates a missense mutation E339K. Posively charged lysine differs from negativelly charged glutamat produces two significant conformational changes, at position 339 instead of the wild type glutamic acid. Two significant conformational change happens very close to the active site because glutamic 
+Human glucokinase (GK) is an enzyme of 465 amino acids that functions as a pancreatic cell glucose sensor, regulating insulin secretion and blood glucose homeostasis. An heterozigotic mutation of the gene GCK, the one encoding human glucokinase, produces a structural change in the final protein, causing Maturity Onset Diabets of the Young type 2 (MODY2). In this paper, we identify the mutation as a substitution of a single mucleotid at the chomosome 7 region 13, c.1015G>A; which creates a missense mutation E339K. Posively charged lysine differs from negativelly charged glutamat produces two significant conformational changes, at position 339 instead of the wild type glutamic acid. Two significant conformational change happens very close to the active site because glutamic 
 
 ## Keywords
 GLucokinase, E339K
@@ -75,7 +75,7 @@ Glucokinase is highly conserved in vertebrates, which shows that its role as a g
 \*Percentage of positions with amino acids from the same physicochemical group. 
 
 ## Genomics impact of mutation
-c.1015A>G
+c.1015G>A
 
 
 ## Structural mechanism and kinetic impact of the GCK E339K mutation

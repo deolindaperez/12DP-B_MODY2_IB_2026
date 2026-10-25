@@ -37,7 +37,7 @@ The human (UniProt P35557) and sheep (NCBI NP_001274400.1) glucokinase sequences
 
 The primary literature and structural coordinates (PDB ID: 3QIC) were identified using the RCSB Protein Data Bank (PDB) Sequence Search tool by querying the mutated human glucokinase sequence at 100% sequence identity. Specific structural mechanisms, including the His416 physical  collision and Ser411–Thr82 loop interaction, along with kinetic parameters were extracted directly from the primary study's text, figures, and figure legends without external molecular modeling software.
 
-Cross-species and varial structural comparison: Sequence and structural comparisons between wild-type human glucokinase, yhe E339K variant (PDB3QIC) and its Xenopus laevis orthologue were provided by our professors as a report.
+Cross-species and varial structural comparison: Sequence and structural comparisons between wild-type human glucokinase, the E339K variant (PDB3QIC) and its Xenopus laevis orthologue were provided by our professors as a report.
 Orthologous sequences were identified with BLAST and corresponding three-dimensional structures were obtained from the Protein Data Bank and structural data bases. Structures were superimposed and their secondary structure assigned in ChimeraX, and the global Cα root-mean-square deviatiuon (RMSD) and per-residue backbone displacement were computed. 
 
 

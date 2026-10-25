@@ -31,9 +31,7 @@ There are different risks involving pregnat women with MODY2. One of these is th
 To prevent these risks, or lower their rate, the main solution is the use of insulin therapy, due to its ability to prevent macrosomia and other effects of MODY2. This type of medication replace the amount of insulin needed that is not being produced, so that the body is not without necessary insulin. That being said, if the fetus has inherited it, since there is a risk of growth restriction, the treatment of maternal hyperglycemia should not be undertaken.
 
 ## METHODS
-The gene FASTA files were provided to us by our professors Ricard Gonzalez, David Blázquez and Nuria Centeno, both the wild-type and mutant for human glucokinase. Furthermore, an animal homolog of glucokinase, in Xenopus Laevis, were obtained by Blast
-
-The primary literature and structural coordinates (PDB ID: 3QIC) were identified using the RCSB Protein Data Bank (PDB) Sequence Search tool by querying the mutated human glucokinase sequence at 100% sequence identity. Specific structural mechanisms, including the His416 physical  collision and Ser411–Thr82 loop interaction, along with kinetic parameters were extracted directly from the primary study's text, figures, and figure legends without external molecular modeling software.
+The gene FASTA files were provided to us by our professors Ricard Gonzalez, David Blázquez and Nuria Centeno, both the wild-type and mutant for human glucokinase. Furthermore, two animal homolog of glucokinase, in Xenopus Laevis and Ovis, were obtained by BLAST.
 
 Cross-species and varial structural comparison: 
 
@@ -42,6 +40,9 @@ Sequence and structural comparisons between wild-type human glucokinase, the E33
 The human (UniProt P35557) and sheep (NCBI NP_001274400.1) glucokinase sequences were aligned with EMBOSS Needle (EBLOSUM62 matrix, gap open 10, gap extend 0.5) (Madeira 2024). The comparison with *Xenopus laevis* was done with the conservation report provided in class, which includes a sequence alignment and a structural superposition.  
 
 Orthologous sequences were identified with BLAST and corresponding three-dimensional structures were obtained from the Protein Data Bank and structural data bases. Structures were superimposed and their secondary structure assigned in ChimeraX, and the global Cα root-mean-square deviatiuon (RMSD) and per-residue backbone displacement were computed. 
+
+The 3D stucture of the protein was identified using the RCSB Protein Data Bank (PDB) Sequence Search tool by querying the mutated human glucokinase sequence at 100% sequence identity. Specific structural mechanisms, including the His416 physical  collision and Ser411–Thr82 loop interaction, along with kinetic parameters were extracted directly from the primary study's text, figures, and figure legends without external molecular modeling software.
+
 
 
 ## RESULTS

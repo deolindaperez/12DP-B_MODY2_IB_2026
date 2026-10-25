@@ -10,6 +10,11 @@ Human glucokinase (GK) is an enzyme of 465 amino acids that functions as a pancr
 GLucokinase, E339K
 
 ## BACKGROUNDS
+Maturity-onset diabetes of the young type 2 (MODY2) is a form of monogenic diabetes characterized by autosomal dominant inheritance, located in chromosome 7p13,  and non-autoimmune β-cell dysfunction. It is typically diagnosed before the age of 25 years following the detection of hyperglycaemia, and is associated with primary defects in insulin secretion. Its clinical course and management, however, depend on the gene involved. Some subtypes respond well to oral hypoglycemic agents, such as GCK-MODY (MODY2), cause mild, stable hyperglycaemia that is rarely associated with vascular complications and generally requires no pharmacological treatment beyond lifestyle and dietary measures. 
+
+The exact prevalence of MODY remains uncertain but it is estimated to account for 1.1 - 6.5% of paedriatic diabetes cases, with marked geographical variation largely attributable to differences in the criteria used to identify cases. GCK-MODY, HNF1A-MODY, and HNF4A-MODY account for more than 90% of MODY cases with a genetic confirmation in several studies in the UK, Europe, and the USA. 
+
+GCK, in its normal, unaltered form encodes glucokinase, also known as hexokinase IV containing 465 amino acids. Mainly expressed in the liver and pancreatic beta cells, this protein catalyses the phosphorylation of hexose, primarily D-glucose, resulting in glucose 6-phosphate. The product, in  turn, is used for the synthesis of glycogen, utilised to store energy. Apart from catalysing the phosphorylation, it serves an important role regarding insulin, depending on its presence, the pancreas or the liver. In the former, insulin secretion is modulated by GCK, while in the latter it acts as an insulin-sensitive determinant of hepatic glucose usage, this referring to how the liver consumes glucose and uses it in relation to the level of insulin, thus insulin-sensitive. GCK, additionally, has a low affinity for glucose, operating efficiently only once there is an abundance of glucose.
 
 
 ### Physiology of wild-type glucokinase

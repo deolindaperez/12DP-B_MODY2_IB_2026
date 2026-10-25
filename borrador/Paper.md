@@ -7,8 +7,7 @@
 Human glucokinase (GK) is an enzyme of 465 amino acids that functions as a pancreatic cell glucose sensor, regulating insulin secretion and blood glucose homeostasis. An heterozigotic mutation of the gene GCK, the one encoding human glucokinase, produces a structural change in the final protein, causing Maturity Onset Diabets of the Young type 2 (MODY2). In this paper, we identify the mutation as a substitution of a single mucleotid at the chomosome 7 region 13, c.1015A>G that creates a missense mutation E339K, producing a mutant amino acid lysine at position 339 instead of the wild type glutamic acid. Stable significant conformational change happens very close to the active site, the amino acid histeine in position 416 rotates 180 degrees in response to 
 
 ## Keywords
-GLucokinase
-E339K
+GLucokinase, E339K
 
 ## Background
 
@@ -32,6 +31,7 @@ There are different risks involving pregnat women with MODY2. One of these is th
 To prevent these risks, or lower their rate, the main solution is the use of insulin therapy, due to its ability to prevent macrosomia and other effects of MODY2. This type of medication replace the amount of insulin needed that is not being produced, so that the body is not without necessary insulin. That being said, if the fetus has inherited it, since there is a risk of growth restriction, the treatment of maternal hyperglycemia should not be undertaken.
 
 ## METHODS
+The gene FASTA files were provided to us by our professors Ricard Gonzalez, David Blázquez and Nuria Centeno, both the wild-type and mutant for human glucokinase. Furthermore, an animal homolog of glucokinase, in Xenopus Laevis, were obtained by Blast
 
 The human (UniProt P35557) and sheep (NCBI NP_001274400.1) glucokinase sequences were aligned with EMBOSS Needle (EBLOSUM62 matrix, gap open 10, gap extend 0.5) (Madeira 2024). The comparison with *Xenopus laevis* was done with the conservation report provided in class, which includes a sequence alignment and a structural superposition.  
 

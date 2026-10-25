@@ -28,12 +28,6 @@ In the liver, glucokinase helps to take up glucose and store it after meals. Dur
 
 Glucokinase is a monomer (a single protein chain) with two parts, a large domain and a small domain, separated by a cleft where glucose binds. Without glucose, the enzyme stays mostly in an inactive "super-open" shape. When glucose binds, the enzyme slowly changes to an active "closed" shape. This slow change of shape explains why glucokinase shows an S-shaped curve even though it has only one glucose-binding site (Kamata 2004).
 
-### Secondary effects
-Despite being the most common MODY subtype in countries where routine genetic screenings are performed, the secondary effects of MODY2 and its symptoms are difficult to encounter and detect without proper tests. That being said, mild, benign and asymptomatic hyperglycemia characterise individuals with illness, though normally having no necessity for any pharmacological treatment. The most negative effect it can have is on women during pregnancy due to the fact that the development of the fetus in the case that it has inherited the GCK mutation.
-
-There are different risks involving pregnat women with MODY2. One of these is the increased rate of miscarriage due to the high levels of glucose the fetus is exposed to. While not being wide-reported, there have been cases of congenital malfromations to the offspring of mothers with MODY. Not all mothers with GCK-MODY produce affected affected kids, but these can still be affected to a degree, especially larger than the average. These larger new borns can even exceed those affected with affected mothers, and, evidently, those in which both the mother and the offspring are unaffected.
-
-To prevent these risks, or lower their rate, the main solution is the use of insulin therapy, due to its ability to prevent macrosomia and other effects of MODY2. This type of medication replace the amount of insulin needed that is not being produced, so that the body is not without necessary insulin. That being said, if the fetus has inherited it, since there is a risk of growth restriction, the treatment of maternal hyperglycemia should not be undertaken.
 
 ## METHODS
 The gene FASTA files were provided to us by our professors Ricard Gonzalez, David Blázquez and Nuria Centeno, both the wild-type and mutant human glucokinase. Furthermore, two animal homolog of glucokinase, in Xenopus laevis and Ovis aeris, were obtained by BLAST. 
@@ -124,6 +118,8 @@ Because the mutant protein loses 80% of its activity, pancreatic cells need high
 
 Kinetic parameters were measured in vitro using recombinant enzyme (mean ± SE of three preparations) and are taken from Liu et al. [1]. S<sub>0.5</sub> and n<sub>H</sub> (Hill coefficient) were derived from the Hill equation and K<sub>m</sub> from the Michaelis–Menten equation. Relative activity is an index calculated from k<sub>cat</sub>, S<sub>0.5</sub>, n<sub>H</sub> and ATP K<sub>m</sub>, normalised to wild-type.
 <sup>a</sup> Normal fasting glucose range. <sup>b</sup> Typical range reported for GCK-MODY patients in general [X]; not measured specifically in E339K carriers.
+
+Pregnancy can result in different problems or risks for the unborn child. The main problem arises from whether the fetus has inherited the mutation or not from one of the two progenitors. In the case that it indeed does have it, since both the mother and the child have slightly elevated glucose levels, the fetus’ liver does not sense any noticeable difference, and thus secretes the appropriate amount of insulin, resulting in a normal fetal growth. In the other case, where the fetus has not inherited the mutation, their liver detects the mother’s higher level of glucose, perceiving it as a hyperglycemia. This results in a hypersecretion of insulin, which serves as a key growth factor, consequently leading to macrosomia, the overgrowth of the fetus.
 
 ## References
 1. Q. Liu, Y. Shen, S. Liu, J. Weng, and J. Liu, 'Crystal structure of E339K mutated human glucokinase reveals changes in the ATP binding site', *FEBS Letters*, vol. 585 (2011), doi: 10.1016/j.febslet.2011.03.026.

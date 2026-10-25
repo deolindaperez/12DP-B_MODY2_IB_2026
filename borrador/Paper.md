@@ -4,7 +4,13 @@
 [Department of bioinformatics, UPC Campus Nord, Barcelona, Spain]
 
 ## Abstract
-Human glucokinase (GK) is a dynamic enzyme of 465 amino acids that functions as a beta-cell glucose sensor, regulating insulin secretion and blood glucose homeostasis. An heterozygous mutation in the GCK gene, which encodes human glucokinase, produces a structural change in the protein, causing Maturity Onset Diabetes of the Young type 2 (MODY2). In this paper, we identify the mutation as a single nucleotide substitution in GCK gene (c.1015G>A) creating a missense mutation E339K (PDB entry 3QIC). Glu339 and Lys339 differ chemically in charge, switching from negative to positive; thus breaking a crucial bond with His416 and forcing it to a 90º conformational change toward the active site. Furthermore, the mutant protein autophosphorylates Ser411 into SEP411, physically closing the ATP-binding pocket. The resulting mutant protein has its glucose affinity significantly lowered, effectively raising the glucose concentration threshold for beta-cells to secrete insulin. Nonetheless, patients with MODY2 retain half of their wild-type glucokinase, which explains the symptom of mild and stable fasting hyperglycemia.
+Human glucokinase (GK) is a dynamic enzyme of 465 amino acids that functions as a beta-cell glucose sensor, regulating insulin secretion and blood glucose homeostasis. 
+An heterozygous mutation in the GCK gene, which encodes human glucokinase, produces a structural change in the protein, causing Maturity Onset Diabetes of the Young type 2 (MODY2). 
+In this paper, we identify the mutation as a single nucleotide substitution in GCK gene (c.1015G>A) creating a missense mutation E339K (PDB entry 3QIC). 
+Glu339 and Lys339 differ chemically in charge, switching from negative to positive; thus breaking a crucial bond with His416 and forcing it to a 90º conformational change toward the active site. 
+Furthermore, the mutant protein autophosphorylates Ser411 into SEP411, physically closing the ATP-binding pocket. 
+The resulting mutant protein has its glucose affinity significantly lowered, effectively raising the glucose concentration threshold for beta-cells to secrete insulin. 
+Nonetheless, patients with MODY2 retain half of their wild-type glucokinase, which explains the symptom of mild and stable fasting hyperglycemia.
 
 ## Keywords
 GCK gene, mutation, Glucokinase, E339K, structural change
@@ -85,11 +91,14 @@ Glu339 is conserved in all three species analysed, indicating that this position
 
 ## Structural and kinetic impact of GCK E339K mutation
 
-In individuals carrying the heterozygous E339K mutation in the GCK gene, cells express one functional wild-type allele alongside one mutated allele. In the wild-type (WT) structure, the glutamic acid residue at position 339 (Glu339) forms two key hydrogen bonds: one with His416 at a distance of 2.8 Å and another with Arg422 at 3.3 Å. These interactions stabilize helix 9 and keep His416 properly aligned. 
+In individuals carrying the heterozygous E339K mutation in the GCK gene, cells express one functional wild-type allele alongside one mutated allele. 
+In the wild-type (WT) structure, the glutamic acid residue at position 339 (Glu339) forms two key hydrogen bonds: one with His416 at a distance of 2.8 Å and another with Arg422 at 3.3 Å. These interactions stabilize helix 9 and keep His416 properly aligned within its own helix. 
 
 In the E339K mutant, Glu339 is substituted by a positively charged lysine (Lys339), so this stabilizing network is lost. 
-Lys339 reorients 180º to form a new hydrogen bond, since two positive charges repel each other (His416 - Lys339), which shortens helix 9 and destabilizes the surrounding region.
-The loss of the hydrogen bond with residue 339 allows the side chain of His416 to rotate by nearly 90º directly into the ATP-binding pocket. The 3D structure of the protein shows that when His416 rotates, it gets too close to the ATP binding site (just 1.5 Å away). This creates a physical collision that blocks ATP from entering (Figure 1). At the same time, the mutant enzyme undergoes accidental autophosphorylation at Serine 411 (Ser411), attaching a phosphate group to its own serine using cellular ATP.
+Lys339 reorients 180º to form a new hydrogen bond, since two positive charges repel each other (His416 - Lys339); this shortens helix 9 (Figure 1) and destabilizes the surrounding region.
+The loss of the hydrogen bond with residue 339 allows the side chain of His416 to rotate by nearly 90º directly into the ATP-binding pocket. The 3D structure of the protein shows that when His416 rotates, it gets too close to the ATP binding site (just 1.5 Å away). 
+It is important to note the use of ATP analog AMPPTP in the 3D structure instead of native ATP, in order to prevent the catalytic activity of glucokinase during crystalization. 
+This creates a physical collision that blocks ATP from entering (Figure 1). At the same time, the mutant enzyme undergoes accidental autophosphorylation at Serine 411 (Ser411), attaching a phosphate group to its own serine using cellular ATP.
 The resulting phosphorylated serine forms a new hydrogen bond with Thr82, pulling the surrounding loop 3 Å closer to the large domain. Together, Ser411 and Thr82 act as a physical closed door that seals the entrance to the ATP pocket (Figure 2).
 
 These structural modifications directly alter the kinetic properties of the mutant enzyme. The combined blockage by His416 and the Ser411-Thr82 interaction reduces the enzyme's affinity for ATP by 5 times, increasing the Km value from 0.32 mM in the wild-type enzyme to 1.50 mM in the mutant. Additionally, the overall relative activity drops by 80%, leaving the mutant enzyme with only 20% of its normal catalytic capacity.  This ultimately translates to glucose S{0.5} increasing  from 8.65 mM to 15.44.
@@ -125,3 +134,4 @@ Pregnancy can result in different problems or risks for the unborn child. The ma
 
 ## References
 1. Q. Liu, Y. Shen, S. Liu, J. Weng, and J. Liu, 'Crystal structure of E339K mutated human glucokinase reveals changes in the ATP binding site', *FEBS Letters*, vol. 585 (2011), doi: 10.1016/j.febslet.2011.03.026.
+2. Kamata, K., Mitsuya, M., Nishimura, T., Eiki, J., and Nagata, Y., 'Structural basis for allosteric regulation of the monomeric allosteric enzyme human glucokinase', Structure, 12/3 (2004), 429–438.

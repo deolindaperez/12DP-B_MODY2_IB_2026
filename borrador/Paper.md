@@ -36,7 +36,7 @@ There are different risks involving pregnat women with MODY2. One of these is th
 To prevent these risks, or lower their rate, the main solution is the use of insulin therapy, due to its ability to prevent macrosomia and other effects of MODY2. This type of medication replace the amount of insulin needed that is not being produced, so that the body is not without necessary insulin. That being said, if the fetus has inherited it, since there is a risk of growth restriction, the treatment of maternal hyperglycemia should not be undertaken.
 
 ## METHODS
-The gene FASTA files were provided to us by our professors Ricard Gonzalez, David Blázquez and Nuria Centeno, both the wild-type and mutant for human glucokinase. Furthermore, two animal homolog of glucokinase, in Xenopus laevis and Ovis aeris, were obtained by BLAST.
+The gene FASTA files were provided to us by our professors Ricard Gonzalez, David Blázquez and Nuria Centeno, both the wild-type and mutant human glucokinase. Furthermore, two animal homolog of glucokinase, in Xenopus laevis and Ovis aeris, were obtained by BLAST.
 
 Cross-species and varial structural comparison: 
 

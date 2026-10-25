@@ -29,7 +29,9 @@ To prevent these risks, or lower their rate, the main solution is the use of ins
 
 ## METHODS
 
-The human (UniProt P35557) and sheep (NCBI NP_001274400.1) glucokinase sequences were aligned with EMBOSS Needle (EBLOSUM62 matrix, gap open 10, gap extend 0.5) (Madeira 2024). The comparison with *Xenopus laevis* was done with the conservation report provided in class, which includes a sequence alignment and a structural superposition.
+The human (UniProt P35557) and sheep (NCBI NP_001274400.1) glucokinase sequences were aligned with EMBOSS Needle (EBLOSUM62 matrix, gap open 10, gap extend 0.5) (Madeira 2024). The comparison with *Xenopus laevis* was done with the conservation report provided in class, which includes a sequence alignment and a structural superposition.  
+
+The primary literature and structural coordinates (PDB ID: 3QIC) were identified using the RCSB Protein Data Bank (PDB) Sequence Search tool by querying the mutated human glucokinase sequence at 100% sequence identity. Specific structural mechanisms, including the His416 physical  collision and Ser411–Thr82 loop interaction, along with kinetic parameters were extracted directly from the primary study's text, figures, and figure legends without external molecular modeling software1.
 
 ## RESULTS
 

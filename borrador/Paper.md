@@ -31,7 +31,7 @@ In the liver, glucokinase helps to take up glucose and store it after meals. Dur
 Glucokinase is a monomer (a single protein chain) with two parts, a large domain and a small domain, separated by a cleft where glucose binds. Without glucose, the enzyme stays mostly in an inactive "super-open" shape. When glucose binds, the enzyme slowly changes to an active "closed" shape. This slow change of shape explains why glucokinase shows an S-shaped curve even though it has only one glucose-binding site (Kamata 2004).
 
 
-## METHODS
+## Methods
 The gene FASTA files were provided to us by our professors Ricard Gonzalez, David Blázquez and Nuria Centeno, both the wild-type and mutant human glucokinase. Furthermore, two animal homolog of glucokinase, in Xenopus laevis and Ovis aeris, were obtained by BLAST. 
 Sequence alignment of those FASTA files was done with BLASTn, obtaining the exact locus of the mutation, c1015G>A.
 

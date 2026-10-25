@@ -4,7 +4,11 @@
 [Department of bioinformatics, UPC Campus Nord, Barcelona, Spain]
 
 ## Abstract
-Human glucokinase (GK) is an enzyme of 465 amino acids that functions as a pancreatic cell glucose sensor, regulating insulin secretion and blood glucose homeostasis. An heterozigotic mutation of the gene GCK, the one encoding human glucokinase, produces a structural change in the final protein, causing Maturity Onset Diabets of the Young type 2 (MODY2). In this paper, we identify the mutation as a substitution of a single mucleotid at the chomosome 7 region 13, c.1015A>G that creates a missense mutation E339K, producing a mutant glucoquinase with an amino acid lysine at position 339 instead of the wild type glutamic acid. 
+Human glucokinase (GK) is an enzyme of 465 amino acids that functions as a pancreatic cell glucose sensor, regulating insulin secretion and blood glucose homeostasis. An heterozigotic mutation of the gene GCK, the one encoding human glucokinase, produces a structural change in the final protein, causing Maturity Onset Diabets of the Young type 2 (MODY2). In this paper, we identify the mutation as a substitution of a single mucleotid at the chomosome 7 region 13, c.1015A>G that creates a missense mutation E339K, producing a mutant amino acid lysine at position 339 instead of the wild type glutamic acid. Stable significant conformational change happens very close to the active site, the amino acid histeine in position 416 rotates 180 degrees in response to 
+
+## Keywords
+GLucokinase
+E339K
 
 ## Background
 

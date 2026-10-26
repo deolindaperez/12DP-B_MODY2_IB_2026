@@ -4,13 +4,13 @@
 [Department of bioinformatics, UPC Campus Nord, Barcelona, Spain]
 
 ## Abstract
-Human glucokinase (GK) is a dynamic enzyme of 465 amino acids that functions as a beta-cell glucose sensor, regulating insulin secretion and blood glucose homeostasis (Kamata et al., 2004). 
-An heterozygous mutation in the GCK gene, which encodes human glucokinase, produces a structural change in the protein, causing Maturity Onset Diabetes of the Young type 2 (MODY2)(Kant et al., 2022)(Tosur & Philipson, 2022). 
-In this paper, we identify the mutation as a single nucleotide substitution in GCK gene (c.1015G>A) creating a missense mutation E339K (PDB entry 3QIC)(Liu et al., 2011) (Gonzalez, 2026). 
-Glu339 and Lys339 differ chemically in charge, switching from negative to positive; thus breaking a crucial bond with His416 and forcing it to a 90º conformational change toward the active site(Liu et al., 2011) & [5] (Centeno, 2026). 
-Furthermore, a phosphorylated Ser411 was also observed in the mutant crystal structure, physically closing the ATP-binding pocket(Liu et al., 2011). 
+Human glucokinase (GK) is a dynamic enzyme of 465 amino acids that functions as a beta-cell glucose sensor, regulating insulin secretion and blood glucose homeostasis. 
+An heterozygous mutation in the GCK gene, which encodes human glucokinase, produces a structural change in the protein, causing Maturity Onset Diabetes of the Young type 2 (MODY2). 
+In this paper, we identify the mutation as a single nucleotide substitution in GCK gene (c.1015G>A) creating a missense mutation E339K (PDB entry 3QIC). 
+Glu339 and Lys339 differ chemically in charge, switching from negative to positive; thus breaking a crucial bond with His416 and forcing it to a 90º conformational change toward the active site. 
+Furthermore, a phosphorylated Ser411 was also observed in the mutant crystal structure, physically closing the ATP-binding pocket. 
 The resulting mutant protein has its ATP affinity significantly lowered, effectively raising the glucose concentration threshold for beta-cells to secrete insulin. 
-Nonetheless, patients with MODY2 retain half of their wild-type glucokinase, which explains the symptom of mild and stable fasting hyperglycemia(Kant et al., 2022), [7] (Timsit et al., 2022).
+Nonetheless, patients with MODY2 retain half of their wild-type glucokinase, which explains the symptom of mild and stable fasting hyperglycemia.
 
 ## Keywords
 GCK gene, mutation, Glucokinase, E339K, structural change

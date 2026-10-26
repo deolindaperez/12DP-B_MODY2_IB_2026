@@ -41,14 +41,14 @@ This charge reversal may alter local interactions within the protein, motivating
 
 Orthologs are the same gene in different species, inherited from a common ancestor. When a position in a protein has not changed during millions of years of evolution, it is probably important for the function of the protein.
 
-The African frog species was chosen because it was assigned by the instructors, while *Ovis aries* was the species that yielded the highest percentage of similarity, with the information having been verified.
+*Xenopus laevis* (assigned by the instructors) was used as a distant vertebrate and *Ovis aries* as a closely related mammal, so that conservation can be assessed over both short and long evolutionary distances. It was assigned by the instructors, while *Ovis aries* was the species that yielded the highest percentage of similarity, with the information having been verified.
 To assess the evolutionary conservation of residue 339, human glucokinase was compared with its orthologues from *Xenopus laevis* (African clawed frog) and *Ovis aries* (sheep).
 
-The human and *Xenopus* proteins share 80.6% identity, and 88.4% of the aligned positions contain amino acids with similar physicochemical properties. Most of the differences are found at the beginning of the protein (the frog protein lacks the first seven residues) and in flexible loop regions. Other regions are completely identical, including residues 161–200. The secondary structure (alpha helices and beta strands) are also highly similar. The global root-mean-square deviation (RMSD) between the two structures is 8.18 Å. Although this value is relatively high, the structural superposition shows that one domain aligns closely while the other is displaced as a block. This suggests that the two structures are in different conformations (open and closed), rather than different overall protein folds. (Ricard Gonzalez, 'personal communication', 2026) (Nuria Centeno, 'personal communication', 2026)
+The human and *Xenopus* proteins share 80.6% identity, and 88.4% of the aligned positions contain amino acids with similar physicochemical properties. Most of the differences are found at the beginning of the protein (the frog protein lacks the first seven residues) and in flexible loop regions. Other regions are completely identical, including residues 161–200. The secondary structure (alpha helices and beta strands) are also highly similar. The global root-mean-square deviation (RMSD) between the two structures is 8.18 Å. Although this value is relatively high, the structural superposition shows that one domain aligns closely while the other is displaced as a block. This suggests that the two structures are in different conformations (open and closed), rather than different overall protein folds. (Gonzalez 2026; Centeno 2026)
 
-The sheep protein is much more similar to the human glucokinase. Global alignment with EMBOSS Needle gave 96.6% identity and 98.3% similarity, with no gaps, as both proteins contain 465 residues. Only 16 positions are different, and most of them are changes between similar amino acids. None of them is between positions 309 and 341.
+The sheep protein is much more similar to the human glucokinase. Global alignment with EMBOSS Needle gave 96.6% identity and 98.3% similarity, with no gaps, as both proteins contain 465 residues. Only 16 positions are different, and most of them are changes between similar amino acids. None of them is between positions 309 and 341, the region surrounding residue 339.
 
-In the three species, position 339 is a glutamate (E). This indicates that this residue 339 is conserved across mammals and amphibians, suggesting that it is under functional constraint. 
+In the three species, position 339 is a glutamate (E). This indicates that this residue 339 is conserved in the three species analysed, which include a mammal and an amphibian, suggesting that it is under functional constraint. The local backbone displacement at position 339 is 3.13 Å between human and *Xenopus*, and 2.49 Å between the wild type and the E339K mutant. 
 
 **Table 1.** Comparison of human glucokinase with its orthologues.
 
@@ -56,7 +56,7 @@ In the three species, position 339 is a glutamate (E). This indicates that this 
 |---|---|---|---|---|
 | *Homo sapiens* (P35557) | — | — | E | — |
 | *Ovis aries* (NP_001274400.1) | 96.6% | 98.3% | E | EMBOSS Needle |
-| *Xenopus laevis* | 80.6% | 88.4%* | E | Class conservation report |
+| *Xenopus laevis* (NP_001079298.1) | 80.6% | 88.4%* | E | Class conservation report |
 
 \*Percentage of positions with amino acids from the same physicochemical group. 
 

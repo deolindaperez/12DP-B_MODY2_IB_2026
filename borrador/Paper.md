@@ -16,7 +16,7 @@ Nonetheless, patients with MODY2 retain half of their wild-type glucokinase, whi
 GCK gene, mutation, Glucokinase, E339K, structural change
 
 ## Background
-Maturity-onset diabetes of the young type 2 (MODY2), also known as GCK-MODY, is a rare form of diabetes characterized by autosomal dominant inheritance, and non-autoimmune β-cell dysfunction. It is typically diagnosed before the age of 25 years following the detection of hyperglycaemia. It exhibits a mild and stable fasting hyperglycaemia that is rarely associated with vascular complications and generally requires no pharmacological treatment beyond lifestyle and dietary measures except in special circumstances, such as pregnancy.
+Maturity-onset diabetes of the young type 2 (MODY2), also known as GCK-MODY, is a rare form of diabetes characterised by autosomal dominant inheritance, and non-autoimmune β-cell dysfunction. It is typically diagnosed before the age of 25 years following the detection of hyperglycaemia. It exhibits a mild and stable fasting hyperglycaemia that is rarely associated with vascular complications and generally requires no pharmacological treatment beyond lifestyle and dietary measures except in special circumstances, such as pregnancy (Rudland 2019).
 
 The exact prevalence of MODY remains uncertain but it is estimated to account for 1.1 - 6.5% of pediatric diabetes cases, with marked geographical variation largely attributable to differences in the criteria used to identify cases. GCK-MODY, HNF1A-MODY, and HNF4A-MODY account for more than 90% of MODY cases with a genetic confirmation in several studies in the UK, Europe, and the USA. (Tosur y Philipson, 'Precision diabetes', p. 1465.)
 
@@ -179,4 +179,5 @@ EMBOSS: European Molecular Biology Open Software Suite
 7. J. Timsit, C. Ciangura, D. Dubois-Laforgue, C. Saint-Martin, and C. Bellanné-Chantelot, 'Pregnancy in women with monogenic diabetes due to pathogenic variants of the glucokinase gene: lessons and challenges', *Frontiers in Endocrinology*, 12 (2022), 802423, doi: 10.3389/fendo.2021.802423.
 8. F. Madeira et al., 'The EMBL-EBI Job Dispatcher sequence analysis tools framework in 2024', *Nucleic Acids Research*, 52/W1 (2024), W521–W525.
 9. C. Postic, M. Shiota, and M. A. Magnuson, 'Cell-specific roles of glucokinase in glucose homeostasis', *Recent Progress in Hormone Research*, 56 (2001), 195–217.
+10. V.L. Rudland, 'Diagnosis and management of glucokinase monogenic diabetes in pregnancy: current perspectives', Diabetes, Metabolic Syndrome and Obesity: Targets and Therapy, vol. 12 (2019), doi: 10.2147/DMSO.S186610.
 

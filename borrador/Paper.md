@@ -175,3 +175,8 @@ EMBOSS: European Molecular Biology Open Software Suite
 3. M. Tosur y L. H. Philipson, ‘Precision diabetes: Lessons learned from maturity-onset diabetes of the young (MODY)’, Journal of Diabetes Investigation, vol. 13, n.º 9, 2022, pp. 1465–1471.
 4. R. Gonzalez, 'GCK_conservation_12DP-B', Introduction to bioinformatics, Universitat Politècnica de Catalunya, 21 octubre 2026.
 5. N. Centeno, 'Structural biology', Introduction to bioinformatics, Universitat Politècnica de Catalunya, 22 octubre 2026.
+6. B. Thompson and L. S. Satin, 'Beta-cell ion channels and their role in regulating insulin secretion', *Comprehensive Physiology*, 11/4 (2021), 1–21.
+7. J. Timsit, C. Ciangura, D. Dubois-Laforgue, C. Saint-Martin, and C. Bellanné-Chantelot, 'Pregnancy in women with monogenic diabetes due to pathogenic variants of the glucokinase gene: lessons and challenges', *Frontiers in Endocrinology*, 12 (2022), 802423, doi: 10.3389/fendo.2021.802423.
+8. F. Madeira et al., 'The EMBL-EBI Job Dispatcher sequence analysis tools framework in 2024', *Nucleic Acids Research*, 52/W1 (2024), W521–W525.
+9. C. Postic, M. Shiota, and M. A. Magnuson, 'Cell-specific roles of glucokinase in glucose homeostasis', *Recent Progress in Hormone Research*, 56 (2001), 195–217.
+

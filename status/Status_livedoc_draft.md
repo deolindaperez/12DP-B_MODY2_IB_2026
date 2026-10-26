@@ -3,7 +3,7 @@
 Last update: 26 October 2026 (submission day). Planned dates come from the Gantt v1 (delivered 09/10, corrected 12/10). Real dates come from the commit history of this repository and from our meeting notes. Statuses: Completed, In progress, Pending, Incident.
 
 | Task | Resp. | Plan. Start Date | Plan. Finish Date | Real Start Date | Real Finish Date | Status | Notes  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
-|---|---|---|---|---|---|---|:---|
+|:---|:---|:---|:---|:---|:---|:---|:---|
 | 1.1 Repository set-up and structure | Deolinda | 17/09/26 | 17/09/26 | 17/09/26 | 12/10/26 | Completed | Repo created on 17/09, but the folders only got the required names (report/, status/, gantt/, references/) on 12/10, after reviewing the formal requirements. Final clean-up on 25/10 (old drafts and non-source files removed). |
 | 1.2 Role and section assignment | All | 07/10/26 | 07/10/26 | 07/10/26 | 07/10/26 | Completed | Roles confirmed by all members on 07/10, as planned. Sections were re-assigned on 22/10. |
 | 1.3 Gantt chart v1 + risk analysis (delivery) | Biel | 07/10/26 | 09/10/26 | 07/10/26 | 12/10/26 | Completed | Delivered on time (09/10, 11:38). Corrected on 12/10 after the lecturer's feedback, so the task closed 1 working day late. The corrected v1 is in gantt/ (gantt-v1-delivered-corrected). |

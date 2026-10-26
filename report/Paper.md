@@ -24,7 +24,7 @@ One of the mutations associated with MODY2 is E339K (c.1015G>A), which replaces 
 
 ### Genomic characterisation of the E339K variant
 
-Comparison of the provided wild-type (1V4S) and mutant sequences revealed a single nucleotide substitution at position 1015 of the coding sequence (c.1015G>A; reference transcript NM_000162.5). This position corresponds to the first nucleotide of codon 339, which changes from [GAG] to [AAG]. The substitution is a transition (a purine replaced by another purine) and does not alter the reading frame or introduce a premature stop codon. Instead, it changes the encoded amino acid, classifying it as a missense variant (p.Glu339Lys, E339K).²
+Comparison of the provided wild-type and mutant sequences revealed a single nucleotide substitution at position 1015 of the coding sequence (c.1015G>A; reference transcript NM_000162.5). This position corresponds to the first nucleotide of codon 339, which changes from [GAG] to [AAG]. The substitution is a transition (a purine replaced by another purine) and does not alter the reading frame or introduce a premature stop codon. Instead, it changes the encoded amino acid, classifying it as a missense variant (p.Glu339Lys, E339K).²
 
 The variant replaces glutamate with lysine at position 339 of the 465-residue protein. These two amino acids have opposite electrostatic properties: glutamate is an acidic residue with a negative charge and can act as a hydrogen-bond acceptor, whereas lysine is a basic residue with a positive charge and can act as a hydrogen-bond donor. The substitution therefore reverses the local charge from −1 to +1.²
 

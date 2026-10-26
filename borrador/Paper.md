@@ -10,17 +10,17 @@ In this paper, we identify the mutation as a single nucleotide substitution in G
 Glu339 and Lys339 differ chemically in charge, switching from negative to positive; thus breaking a crucial bond with His416 and forcing it to a 90º conformational change toward the active site. 
 Furthermore, a phosphorylated Ser411 was also observed in the mutant crystal structure, physically closing the ATP-binding pocket. 
 The resulting mutant protein has its ATP affinity significantly lowered, effectively raising the glucose concentration threshold for beta-cells to secrete insulin. 
-Nonetheless, patients with MODY2 retain half of their wild-type glucokinase, which explains the symptom of mild and stable fasting hyperglycemia.
+Nonetheless, patients with MODY2 retain half of their wild-type glucokinase, which explains the symptom of mild and stable fasting hyperglycaemia.
 
 ## Keywords
-GCK gene, mutation, Glucokinase, E339K, structural change
+GCK gene, Glucokinase, E339K, Structural change, ATP, Hyperglycaemia
 
 ## Background
 Maturity-onset diabetes of the young type 2 (MODY2), also known as GCK-MODY, is a rare form of diabetes characterised by autosomal dominant inheritance and non-autoimmune β-cell dysfunction. It is typically diagnosed before the age of 25 years following the detection of hyperglycaemia. It exhibits a mild and stable fasting hyperglycaemia that is rarely associated with vascular complications and generally requires no pharmacological treatment beyond lifestyle and dietary measures except in special circumstances, such as pregnancy (Rudland 2019).
 
 The exact prevalence of MODY remains uncertain but it is estimated to account for 1.1 - 6.5% of pediatric diabetes cases, with marked geographical variation largely attributable to differences in the criteria used to identify cases. GCK-MODY, HNF1A-MODY, and HNF4A-MODY account for more than 90% of MODY cases with a genetic confirmation in several studies in the UK, Europe, and the USA. (Tosur y Philipson, 'Precision diabetes', p. 1465.)
 
-The GCK gene encodes glucokinase (GK, also called hexokinase IV), an enzyme of 465 amino acids found mainly in the liver and pancreatic beta cells. Glucokinase catalyses the phosphorylation of glucose into glucose-6-phosphate (G6P) using ATP. In pancreatic beta cells, it acts as a glucose sensor and helps regulate insulin secretion. Unlike other hexokinases, glucokinase has a low affinity for glucose, meaning that its activity increases when glucose levels rise. Mutations that reduce its activity can increase the glucose level needed for insulin secretion, causing the mild hyperglycemia observed in MODY2 (Kamata 2004).
+The GCK gene encodes glucokinase (GK, also called hexokinase IV), an enzyme of 465 amino acids found mainly in the liver and pancreatic beta cells. Glucokinase catalyses the phosphorylation of glucose into glucose-6-phosphate (G6P) using ATP. In pancreatic beta cells, it acts as a glucose sensor and helps regulate insulin secretion. Unlike other hexokinases, glucokinase has a low affinity for glucose, meaning that its activity increases when glucose levels rise. Mutations that reduce its activity can increase the glucose level needed for insulin secretion, causing the mild hyperglycaemia observed in MODY2 (Kamata 2004).
 
 Structurally this protein is composed of two domains, the large one and the small one, which are separated by a deep cleft, forming the active site where the phosphorylation will take place (Kamata 2004). These two domains, once altered by the mutation, play an important role in disrupting the enzyme’s glucose-sensing threshold. GCK-MODY results from heterozygous inactivating variants in GCK. These variants raise the glucose threshold for insulin secretion by pancreatic β-cells and alter hepatic glucose handling, so that glucose is maintained at a slightly elevated but tightly regulated level. In the liver, glucokinase is regulated by the glucokinase regulatory protein (GKRP), which keeps it inactive in the nucleus during fasting and releases it after a meal, when the glucose-6-phosphate it produces is used to synthesise glycogen (Postic 2001).
 
@@ -73,7 +73,7 @@ Additionally, the mutant structure contains a phosphorylated serine residue at p
 
 These structural modifications are associated with changes in the kinetic properties of the mutant enzyme. The ATP Michaelis constant (Kₘ) increases from 0.32 mM in the wild-type enzyme to 1.50 mM in the E339K mutant, indicating an approximately reduction in ATP affinity. Additionally, the overall relative activity drops by 80%, leaving the mutant enzyme with only 20% of its normal catalytic capacity. The glucose half-saturation concentration (S₀.₅) also increases from 8.65 mM to 15.44 mM. (Liu 2011)
 
-Because the mutant protein loses 80% of its activity, pancreatic cells need higher blood sugar levels than normal to release insulin. This higher limit is the direct cause of high blood sugar (hyperglycemia) in MODY2 patients.
+Because the mutant protein loses 80% of its activity, pancreatic cells need higher blood sugar levels than normal to release insulin. This higher limit is the direct cause of high blood sugar (hyperglycaemia) in MODY2 patients.
 
 <table>
   <tr>

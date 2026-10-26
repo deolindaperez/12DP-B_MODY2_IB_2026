@@ -162,6 +162,10 @@ EMBOSS: European Molecular Biology Open Software Suite
 
 ## Declarations
 
+**Availability of data and materials.** All data, sequences, alignments and references used in this study are available in the project repository: https://github.com/deolindaperez/12DP-B_MODY2_IB_2026
+
+**Authors' contributions.** M.L.P. rewrote the Background, wrote the final Discussion and the Conclusions, contributed to the genomic and structural Results, and reviewed the manuscript against the marking rubric. D.P. set up and organised the repository, wrote the Abstract and Keywords and the genomic characterisation of E339K, contributed to the structural Results and the Methods, and formatted the references. B.P. wrote the physiology of wild-type glucokinase, performed the comparison with Ovis aries (EMBOSS Needle) and wrote the species comparison (Results, Table 1), contributed to the Methods and the Discussion, and prepared the Gantt charts, the retrospective and the status document. U.R. retrieved the Xenopus laevis sequences and wrote the clinical section on pregnancy. A.S. created the final manuscript file and wrote the structural and kinetic analysis of E339K and its Methods. All authors discussed the results and approved the final manuscript.
+
 
 ## References
 1. Centeno, N., 'Structural biology', Introduction to Bioinformatics, Universitat Politècnica de Catalunya, 22 October 2026.

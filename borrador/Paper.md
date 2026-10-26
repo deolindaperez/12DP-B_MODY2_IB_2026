@@ -181,4 +181,5 @@ EMBOSS: European Molecular Biology Open Software Suite
 9. F. Madeira et al., 'The EMBL-EBI Job Dispatcher sequence analysis tools framework in 2024', *Nucleic Acids Research*, 52/W1 (2024), W521–W525.
 10. C. Postic, M. Shiota, and M. A. Magnuson, 'Cell-specific roles of glucokinase in glucose homeostasis', *Recent Progress in Hormone Research*, 56 (2001), 195–217.
 11. V.L. Rudland, 'Diagnosis and management of glucokinase monogenic diabetes in pregnancy: current perspectives', Diabetes, Metabolic Syndrome and Obesity: Targets and Therapy, vol. 12 (2019), doi: 10.2147/DMSO.S186610.
+12. Matschinsky, F. M., 'Banting Lecture 1995. A lesson in metabolic regulation inspired by the glucokinase glucose sensor paradigm', *Diabetes*, 45/2 (1996), 223–241.
 

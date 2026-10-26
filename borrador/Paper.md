@@ -16,7 +16,7 @@ Nonetheless, patients with MODY2 retain half of their wild-type glucokinase, whi
 GCK gene, Glucokinase, E339K, Structural change, ATP, Hyperglycaemia
 
 ## Background
-Maturity-onset diabetes of the young type 2 (MODY2), also known as GCK-MODY, is a rare form of diabetes characterised by autosomal dominant inheritance and non-autoimmune β-cell dysfunction [3, 6, 8]. It is typically diagnosed before the age of 25 years following the detection of hyperglycaemia [8, 11]. It exhibits a mild and stable fasting hyperglycaemia [3, 7] that is rarely associated with vascular complications [7, 8] and generally requires no pharmacological treatment beyond lifestyle and dietary measures [8, 11] except in special circumstances, such as pregnancy [7, 11].
+Maturity-onset diabetes of the young type 2 (MODY2), also known as GCK-MODY, is a rare form of diabetes characterised by autosomal dominant inheritance and non-autoimmune β-cell dysfunction [3, 6, 8]. It is typically diagnosed before the age of 25 years following the detection of hyperglycaemia [8, 11]. It exhibits a mild and stable fasting hyperglycaemia <sup>[3, 7]<sup> that is rarely associated with vascular complications [7, 8] and generally requires no pharmacological treatment beyond lifestyle and dietary measures [8, 11] except in special circumstances, such as pregnancy [7, 11].
 
 The exact prevalence of MODY remains uncertain [3], but it is estimated to account for 1.1–6.5% of pediatric diabetes cases [3, 8], with marked geographical variation largely attributable to differences in the criteria used to identify cases [3]. GCK-MODY, HNF1A-MODY, and HNF4A-MODY account for more than 90% of MODY cases with a genetic confirmation in several studies in the UK, Europe, and the USA [3, 8].
 

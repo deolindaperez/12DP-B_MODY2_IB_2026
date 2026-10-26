@@ -138,3 +138,5 @@ Kinetic parameters, including glucose S₀.₅, ATP Kₘ and relative enzymatic 
 1. Q. Liu, Y. Shen, S. Liu, J. Weng, and J. Liu, 'Crystal structure of E339K mutated human glucokinase reveals changes in the ATP binding site', *FEBS Letters*, vol. 585 (2011), doi: 10.1016/j.febslet.2011.03.026.
 2. Kamata, K., Mitsuya, M., Nishimura, T., Eiki, J., and Nagata, Y., 'Structural basis for allosteric regulation of the monomeric allosteric enzyme human glucokinase', Structure, 12/3 (2004), 429–438.
 3. M. Tosur y L. H. Philipson, ‘Precision diabetes: Lessons learned from maturity-onset diabetes of the young (MODY)’, Journal of Diabetes Investigation, vol. 13, n.º 9, 2022, pp. 1465–1471.
+4. R. Gonzalez, 'GCK_conservation_12DP-B', Introduction to bioinformatics, Universitat Politècnica de Catalunya, 21 octubre 2026.
+5. N. Centeno, 'Structural biology', Introduction to bioinformatics, Universitat Politècnica de Catalunya, 22 octubre 2026.

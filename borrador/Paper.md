@@ -99,7 +99,7 @@ Because the mutant protein loses 80% of its activity, pancreatic cells need high
 
 ## Discussion
 
-Pregnancy can result in different problems or risks for the unborn child. The main problem arises from whether the fetus has inherited the mutation or not from one of the two progenitors. In the case that it indeed does have it, since both the mother and the child have slightly elevated glucose levels, the fetus’ liver does not sense any noticeable difference, and thus secretes the appropriate amount of insulin, resulting in a normal fetal growth. In the other case, where the fetus has not inherited the mutation, their liver detects the mother’s higher level of glucose, perceiving it as a hyperglycemia. This results in a hypersecretion of insulin, which serves as a key growth factor, consequently leading to macrosomia, the overgrowth of the fetus.
+Pregnancy can result in different problems or risks for the unborn child. The main problem arises from whether the fetus has inherited the mutation or not from one of the two parents. In the case that it indeed does have it, since both the mother and the child have slightly elevated glucose levels, the fetus’ liver does not sense any noticeable difference, and thus secretes the appropriate amount of insulin, resulting in a normal fetal growth. In the other case, where the fetus has not inherited the mutation, their liver detects the mother’s higher level of glucose, perceiving it as a hyperglycemia. This results in a hypersecretion of insulin, which serves as a key growth factor, consequently leading to macrosomia, the overgrowth of the fetus.
 
 ## Conclusions
 

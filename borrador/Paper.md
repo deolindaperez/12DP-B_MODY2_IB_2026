@@ -133,21 +133,37 @@ Kinetic parameters, including glucose S₀.₅, ATP Kₘ and relative enzymatic 
 
 ## Abbreviations
 MODY2: Maturity Onset Diabetes of the Young type 2
+
 PDB: Protein Data Bank
+
 GK: protein glucokinase or hexokinase IV  
+
 GCK: gene coding for glucokinase
+
 HNF1A-MODY: MODY caused by a mutation in gene HNF1A, specifically  MODY3
+
 HNF4A-MODY: MODY caused by a mutation in gene HNF4A, specifically MODY 1 
+
 Glu: Glutamic acid  
+
 Lys: Lysine
+
 His: Histidine
+
 Thr: Threonine
+
 Ser: Serine
+
 Arg: Arginine
+
 SEP: phosphorylated serine
+
 ATP: Adenosine-triphosphate
+
 ADP: Adenosine-diphosphate
+
 AMP-PNP: Adenylyl imidodiphosphate, ATP analog
+
 EMBOSS: European Molecular Biology Open Software Suite 
 
 

@@ -19,5 +19,5 @@
 |Discussion and Conclusions|Unai|Completed||||||
 |Abstract and keywords|Deolinda|Completed||||||
 |Format and citation review|All|Completed||||||
-|Live Gantt update and retrospective|Biel and Deo|Completed||||||
-|Defence preparation, all sections|All|Completed||||||
+|Live Gantt update and retrospective|Biel and Deo|ongoing||||||
+|Defence preparation, all sections|All|ongoing||||||

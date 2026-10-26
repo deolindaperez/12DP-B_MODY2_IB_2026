@@ -172,16 +172,27 @@ EMBOSS: European Molecular Biology Open Software Suite
 
 
 ## References
-1. Q. Liu, Y. Shen, S. Liu, J. Weng, and J. Liu, 'Crystal structure of E339K mutated human glucokinase reveals changes in the ATP binding site', *FEBS Letters*, vol. 585 (2011), doi: 10.1016/j.febslet.2011.03.026.
-2. Kamata, K., Mitsuya, M., Nishimura, T., Eiki, J., and Nagata, Y., 'Structural basis for allosteric regulation of the monomeric allosteric enzyme human glucokinase', Structure, 12/3 (2004), 429–438.
-3. M. Tosur y L. H. Philipson, ‘Precision diabetes: Lessons learned from maturity-onset diabetes of the young (MODY)’, Journal of Diabetes Investigation, vol. 13, n.º 9, 2022, pp. 1465–1471.
-4. R. Gonzalez, 'GCK_conservation_12DP-B', Introduction to bioinformatics, Universitat Politècnica de Catalunya, 21 octubre 2026.
-5. N. Centeno, 'Structural biology', Introduction to bioinformatics, Universitat Politècnica de Catalunya, 22 octubre 2026.
-6. B. Thompson and L. S. Satin, 'Beta-cell ion channels and their role in regulating insulin secretion', *Comprehensive Physiology*, 11/4 (2021), 1–21.
-7. J. Timsit, C. Ciangura, D. Dubois-Laforgue, C. Saint-Martin, and C. Bellanné-Chantelot, 'Pregnancy in women with monogenic diabetes due to pathogenic variants of the glucokinase gene: lessons and challenges', *Frontiers in Endocrinology*, 12 (2022), 802423, doi: 10.3389/fendo.2021.802423.
-8. Kant, R., Davis, A., and Verma, V., 'Maturity-Onset Diabetes of the Young: Rapid Evidence Review', *American Family Physician*, 105/2 (2022), 162–167.
-9. F. Madeira et al., 'The EMBL-EBI Job Dispatcher sequence analysis tools framework in 2024', *Nucleic Acids Research*, 52/W1 (2024), W521–W525.
-10. C. Postic, M. Shiota, and M. A. Magnuson, 'Cell-specific roles of glucokinase in glucose homeostasis', *Recent Progress in Hormone Research*, 56 (2001), 195–217.
-11. V.L. Rudland, 'Diagnosis and management of glucokinase monogenic diabetes in pregnancy: current perspectives', Diabetes, Metabolic Syndrome and Obesity: Targets and Therapy, vol. 12 (2019), doi: 10.2147/DMSO.S186610.
-12. Matschinsky, F. M., 'Banting Lecture 1995. A lesson in metabolic regulation inspired by the glucokinase glucose sensor paradigm', *Diabetes*, 45/2 (1996), 223–241.
+1. Centeno, N., 'Structural biology', Introduction to Bioinformatics, Universitat Politècnica de Catalunya, 22 October 2026.
+
+2. Gonzalez, R., 'GCK_conservation_12DP-B', Introduction to Bioinformatics, Universitat Politècnica de Catalunya, 21 October 2026.
+
+3. Kamata, K., Mitsuya, M., Nishimura, T., Eiki, J., and Nagata, Y., 'Structural basis for allosteric regulation of the monomeric allosteric enzyme human glucokinase', Structure, 12/3 (2004), 429–438.
+
+4. Kant, R., Davis, A., and Verma, V., 'Maturity-Onset Diabetes of the Young: Rapid Evidence Review', American Family Physician, 105/2 (2022), 162–167.
+
+5. Liu, Q., Shen, Y., Liu, S., Weng, J., and Liu, J., 'Crystal structure of E339K mutated human glucokinase reveals changes in the ATP binding site', FEBS Letters, 585/8 (2011), 1175–1179.
+
+6. Madeira, F., et al., 'The EMBL-EBI Job Dispatcher sequence analysis tools framework in 2024', Nucleic Acids Research, 52/W1 (2024), W521–W525.
+
+7. Matschinsky, F. M., 'Banting Lecture 1995. A lesson in metabolic regulation inspired by the glucokinase glucose sensor paradigm', Diabetes, 45/2 (1996), 223–241.
+
+8. Postic, C., Shiota, M., and Magnuson, M. A., 'Cell-specific roles of glucokinase in glucose homeostasis', Recent Progress in Hormone Research, 56 (2001), 195–217.
+
+9. Rudland, V. L., 'Diagnosis and management of glucokinase monogenic diabetes in pregnancy: current perspectives', Diabetes, Metabolic Syndrome and Obesity: Targets and Therapy, 12 (2019), 1181–1189.
+
+10. Thompson, B., and Satin, L. S., 'Beta-cell ion channels and their role in regulating insulin secretion', Comprehensive Physiology, 11/4 (2021), 1–21.
+
+11. Timsit, J., Ciangura, C., Dubois-Laforgue, D., Saint-Martin, C., and Bellanné-Chantelot, C., 'Pregnancy in women with monogenic diabetes due to pathogenic variants of the glucokinase gene: lessons and challenges', Frontiers in Endocrinology, 12 (2022), 802423.
+
+12. Tosur, M., and Philipson, L. H., 'Precision diabetes: Lessons learned from maturity-onset diabetes of the young (MODY)', Journal of Diabetes Investigation, 13/9 (2022), 1465–1471.
 

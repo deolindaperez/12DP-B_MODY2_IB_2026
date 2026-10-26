@@ -99,7 +99,18 @@ Because the mutant protein loses 80% of its activity, pancreatic cells need high
 
 ## Discussion
 
-Pregnancy can result in different problems or risks for the unborn child. The main problem arises from whether the fetus has inherited the mutation or not from one of the two parents. In the case that it indeed does have it, since both the mother and the child have slightly elevated glucose levels, the fetus’ liver does not sense any noticeable difference, and thus secretes the appropriate amount of insulin, resulting in a normal fetal growth. In the other case, where the fetus has not inherited the mutation, their liver detects the mother’s higher level of glucose, perceiving it as a hyperglycemia. This results in a hypersecretion of insulin, which serves as a key growth factor, consequently leading to macrosomia, the overgrowth of the fetus.
+The results of this study connect a single nucleotide change in GCK with the clinical phenotype of MODY2 across several biological levels. At the gene level, the c.1015G>A transition produces a missense change, p.Glu339Lys, which reverses the charge of residue 339 from negative to positive. 
+At the structural level, this charge reversal disrupts the hydrogen bonds between Glu339 and His416 and Arg422. His416 then rotates towards the ATP-binding pocket, and a phosphorylated Ser411 brings to the large domain, so that access to the nucleotide is impaired by two independent mechanisms. At the functional level, these changes are consistent with the kinetic data. The ATP Km increases approximately 5-fold, whereas the glucose S0.5 increases less than 2-fold, indicating that the main defect of E339K lies in nucleotide binding rather than glucose binding. This agrees with the location of both structural perturbations in the ATP-binding region.
+
+MODY2 patients are a heterozygous and retain one wild-type allele. Because glucokinase is a monomer, the mutant protein is not expected to impair the wild-type enzyme, so the two forms are likely to contribute independently to total activity. Total glucokinase activity in beta cells would therefore be only partially reduced. In beta cells, glucokinase controls the rate of glycolisis, and the resulting increase in the ATP/ADP ratio closes. A partial loss of glucokinase activity reduces ATP production at any given glucose concentration, so that a higher blood glucose level is needed to reach the threshold for insulin secretion. The glucose-sensing system is not abolished but recalibrated: glucose homeostasis is preserved at a higher set point. This explains why pacients present with mild, stable fasting hyperglycaemia rather than progessive diabetes, consisten with the typical range of approximately 5.5-8mM reported for GCK-MODY.
+
+The cross-species comparison supports the functional importance of residue 339. Glu339 is conserved in human, sheep and Xenopus laevis, species separated by approximately 350 million years of evolution. Glutamate to lysine exchanges are generally tolerated during the protein evolution. This responds to the main question addresed in this work: a sequence that appears chemically moderate can have a strong funcional effect when it disrupts a conserved network of intractions, even at a position distant from the active site.
+
+
+
+
+This study has a several limitations. The structural and kinetic data were obtained from a single study and were measured in vitro using recombinant enzyme expressed in Escherichia coli, which may not fully reflect glucokinase behaviour in human beta cells. The phosphorylation of Ser411 was observed in this recombinant protein, and i
+
 
 ## Conclusions
 

@@ -5,7 +5,7 @@
 
 ## Abstract
 Human glucokinase (GK) is a dynamic enzyme of 465 amino acids that functions as a beta-cell glucose sensor, regulating insulin secretion and blood glucose homeostasis. 
-An heterozygous mutation in the GCK gene, which encodes human glucokinase, produces a structural change in the protein, causing Maturity Onset Diabetes of the Young type 2 (MODY2). 
+A heterozygous mutation in the GCK gene, which encodes human glucokinase, produces a structural change in the protein, causing Maturity Onset Diabetes of the Young type 2 (MODY2). 
 In this paper, we identify the mutation as a single nucleotide substitution in GCK gene (c.1015G>A) creating a missense mutation E339K (PDB entry 3QIC). 
 Glu339 and Lys339 differ chemically in charge, switching from negative to positive; thus breaking a crucial bond with His416 and forcing it to a 90º conformational change toward the active site. 
 Furthermore, the mutant protein autophosphorylates Ser411 into SEP411, physically closing the ATP-binding pocket. 
@@ -13,7 +13,7 @@ The resulting mutant protein has its glucose affinity significantly lowered, eff
 Nonetheless, patients with MODY2 retain half of their wild-type glucokinase, which explains the symptom of mild and stable fasting hyperglycemia.
 
 ## Keywords
-GCK gene, mutation, Glucokinase, E339K, structural change
+GCK-MODY, mutation, Glucokinase, E339K, MODY2
 
 ## Background
 Maturity-onset diabetes of the young type 2 (MODY2), also known as GCK-MODY, is a rare form of diabetes characterized by autosomal dominant inheritance, and non-autoimmune β-cell dysfunction. It is typically diagnosed before the age of 25 years following the detection of hyperglycaemia. It exhibits a mild and stable fasting hyperglycaemia that is rarely associated with vascular complications and generally requires no pharmacological treatment beyond lifestyle and dietary measures. Because of this, MODY2 does not require treatment except in special circumstances, such as pregnancy.
@@ -42,11 +42,11 @@ This charge reversal may alter local interactions within the protein, motivating
 Orthologs are the same gene in different species, inherited from a common ancestor. When a position in a protein has not changed during millions of years of evolution, it is probably important for the function of the protein.
 To assess the evolutionary conservation of residue 339, human glucokinase was compared with its orthologues from Xenopus laevis (African clawed frog) and Ovis aries (sheep).
 
-The human and *Xenopus* proteins share 80.6% identity, and 88.4% of the aligned positions contain amino acids with similar physicochemical properties. Most of the differences are found at the beginning of the protein (the frog protein lacks the first seven residues) and in flexible loop regions. Other regions are completely identical, including residues 161–200. The secondary structure (alpha helices and beta strands) are also highly similar. The global root-mean-square deviation (RMSD) between the two structures is 8.18 Å. Although this value is relatively high, the structural superposition shows that one domain aligns closely while the other is displaced as a block. This suggests that the two structures are in different conformations (open and closed), rather than different overall protein folds.
+The human and *Xenopus* proteins share 80.6% identity, and 88.4% of the aligned positions contain amino acids with similar physicochemical properties. Most of the differences are found at the beginning of the protein (the frog protein lacks the first seven residues) and in flexible loop regions. Other regions are completely identical, including residues 161–200. The secondary structure (alpha helices and beta strands) is also highly similar. The global root-mean-square deviation (RMSD) between the two structures is 8.18 Å. Although this value is relatively high, the structural superposition shows that one domain aligns closely while the other is displaced as a block. This suggests that the two structures are in different conformations (open and closed), rather than different overall protein folds.
 
 The sheep protein is much more similar to the human glucokinase. Global alignment with EMBOSS Needle gave 96.6% identity and 98.3% similarity, with no gaps, as both proteins contain 465 residues. Only 16 positions are different, and most of them are changes between similar amino acids. None of them is between positions 309 and 341.
 
-In the three species, position 339 is a glutamate (E). This means that this residue has been conserved in mammals and amphibians, so the E339K mutation changes a position that evolution has not allowed to change. Additionally, the local backbone displacement at position 339 between human and *Xenopus* (3.13 Å) is larger than between the wild-type and the mutant (2.49 Å). This suggests that the functional effects of E339K do not depend only on backbone displacement but also on the reversal of the residue's charge and its interactions with surrounding amino acids (Liu 2011).
+In the three species, position 339 is a glutamate (E). This means that this residue has been conserved in mammals and amphibians, so the E339K mutation changes a position conserved across mammals and amphibians. Additionally, the local backbone displacement at position 339 between human and *Xenopus* (3.13 Å) is larger than between the wild-type and the mutant (2.49 Å). This suggests that the functional effects of E339K do not depend only on backbone displacement but also on the reversal of the residue's charge and its interactions with surrounding amino acids (Liu 2011).
 
 **Table 1.** Comparison of human glucokinase with its orthologues.
 
@@ -66,13 +66,11 @@ In the wild-type (WT) structure, the glutamate residue at position 339 (Glu339) 
 In the E339K mutant, Glu339 is replaced by a positively charged lysine (Lys339), so this stabilizing network is lost. 
 Lys339 reorients 180º to form a new hydrogen bond, since two positive charges repel each other (His416 - Lys339); this shortens helix 9 (Figure 1) and destabilizes the surrounding region.
 The loss of the original interaction with residue 339 allows the side chain of His416 to rotate by nearly 90º towards the ATP-binding pocket. According to the structural analysis reported by Liu et al. (2011), this rotation creates a physical blockage that may interfere with ATP binding.
-It is important to note the use of ATP analog AMPPTP in the 3D structure instead of native ATP, in order to prevent the catalytic activity of glucokinase during crystalization. 
+This clash was inferred by superimposing the mutant structure, whoich contais only glucose, onto a wild-type structure bound to AMPPNP, a non hydrollysabre ATP analogue (PDB 3ID8), in which the rotated His416 would lie approximately 1.5 Å from the adenine ring of the nucleotide.  
 
 Additionally, the mutant structure contains a phosphorylated serine residue at position 411 (Ser411). The phosphorylated residue forms a hydrogen bond with Thr82, bringing the surrounding loop approximately 3 Å closer to the large domain. This structural rearrangement further restricts access to the ATP-binding pocket (Figure 2).
 
 These structural modifications are associated with changes in the kinetic properties of the mutant enzyme. The ATP Michaelis constant (Kₘ) increases from 0.32 mM in the wild-type enzyme to 1.50 mM in the E339K mutant, indicating an approximately reduction in ATP affinity. Additionally, the overall relative activity drops by 80%, leaving the mutant enzyme with only 20% of its normal catalytic capacity. The glucose half-saturation concentration (S₀.₅) also increases from 8.65 mM to 15.44 mM.
-
-Because the mutant protein loses 80% of its activity, pancreatic cells need higher blood sugar levels than normal to release insulin. This higher limit is the direct cause of high blood sugar (hyperglycemia) in MODY2 patients.
 
 <table>
   <tr>
@@ -99,7 +97,10 @@ Because the mutant protein loses 80% of its activity, pancreatic cells need high
 
 ## Discussion
 
-Pregnancy can result in different problems or risks for the unborn child. The main problem arises from whether the fetus has inherited the mutation or not from one of the two progenitors. In the case that it indeed does have it, since both the mother and the child have slightly elevated glucose levels, the fetus’ liver does not sense any noticeable difference, and thus secretes the appropriate amount of insulin, resulting in a normal fetal growth. In the other case, where the fetus has not inherited the mutation, their liver detects the mother’s higher level of glucose, perceiving it as a hyperglycemia. This results in a hypersecretion of insulin, which serves as a key growth factor, consequently leading to macrosomia, the overgrowth of the fetus.
+Pregnancy can result in different problems or risks for the unborn child. The main problem arises from whether the fetus has inherited the mutation or not from one of the two progenitors. In the case that it indeed does have it, since both the mother and the child have slightly elevated glucose levels, the pancreas’ liver does not sense any noticeable difference, and thus secretes the appropriate amount of insulin, resulting in a normal fetal growth. In the other case, where the fetus has not inherited the mutation, their pancreas detects the mother’s higher level of glucose, perceiving it as a hyperglycemia. This results in a hypersecretion of insulin, which serves as a key growth factor, consequently leading to macrosomia, the overgrowth of the fetus.
+
+## Discussion
+
 
 ## Conclusions
 

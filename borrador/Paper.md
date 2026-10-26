@@ -132,6 +132,24 @@ The three-dimensional structure of the E339K variant was identified using the RC
 Kinetic parameters, including glucose S₀.₅, ATP Kₘ and relative enzymatic activity, as well as information about the structural mechanisms involving His416 and the Ser411–Thr82 interaction, were obtained from the primary study by Liu et al. (2011), using its text, figures and figure legends. These values were used to compare wild-type glucokinase with the E339K variant. No additional molecular modelling, new kinetic experiments or statistical tests were performed.
 
 ## Abbreviations
+MODY2: Maturity Onset Diabetes of the Young type 2
+PDB: Protein Data Bank
+GK: protein glucokinase or hexokinase IV  
+GCK: gene coding for glucokinase
+HNF1A-MODY: MODY caused by a mutation in gene HNF1A, specifically  MODY3
+HNF4A-MODY: MODY caused by a mutation in gene HNF4A, specifically MODY 1 
+Glu: Glutamic acid  
+Lys: Lysine
+His: Histidine
+Thr: Threonine
+Ser: Serine
+Arg: Arginine
+SEP: phosphorylated serine
+ATP: Adenosine-triphosphate
+ADP: Adenosine-diphosphate
+AMP-PNP: Adenylyl imidodiphosphate, ATP analog
+EMBOSS: European Molecular Biology Open Software Suite 
+
 
 ## Declarations
 

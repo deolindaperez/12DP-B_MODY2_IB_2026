@@ -58,7 +58,7 @@ In the three species, position 339 is a glutamate (E). This indicates that resid
 In the wild-type (WT) structure, the glutamate residue at position 339 (Glu339) forms two key hydrogen bonds: one with His416 at a distance of 2.8 Å and another with Arg422 at 3.3 Å. These interactions stabilise helix 9 and help maintain the proper alignment of His416.⁵    
 
 In the E339K mutant, Glu339 is replaced by a positively charged lysine (Lys339), so this stabilising network is lost. 
-Lys339 reorients 180° to form a new hydrogen bond, since two positive charges repel each other (His416 - Lys339); this shortens helix 9 (Figure 1) and destabilises the surrounding region.⁵
+Lys339 reorients and forms a new hydrogen bond with Asp344, which shortens helix α9 (Figure 1) and destabilises the surrounding region.⁵
 
 The loss of the original interaction with residue 339 allows the side chain of His416 to rotate by nearly 90º towards the ATP-binding pocket. According to the structural analysis reported by Liu et al. (2011), this rotation creates a physical blockage that may interfere with ATP binding.
 It is important to note the use of ATP analogue AMP-PNP in the 3D structure instead of native ATP, in order to prevent the catalytic activity of glucokinase during crystallisation.⁵ 
